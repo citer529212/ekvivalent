@@ -19,3 +19,16 @@
 - `data/words.json` сохранён из предоставленного файла с исходными переводами и примерами.
 
 Адаптации перечисленных словарных наборов сохраняют указанные лицензии. Публичная доступность репозитория не означает предоставления единой лицензии на все прочие материалы программы.
+
+## Аудирование: записи VOA Learning English
+
+Автор и источник первых четырёх диалогов — Voice of America, VOA Learning English, курс Let’s Learn English. Использованы оригинальные MP3 диалогов и тексты реплик; вопросы и учебный интерфейс добавлены в «Эквиваленте». Файлы размещены в `media/listening/`.
+
+- `voa-welcome.mp3`: [Lesson 1 — Welcome!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-one/3111026.html)
+- `voa-neighbours.mp3`: [Lesson 2 — Hello, I’m Anna!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-2-hello/3113733.html)
+- `voa-phone.mp3`: [Lesson 3 — I’m Here!](https://learningenglish.voanews.com/a/lets-learn-english-lesson-3-i-am-here/3126527.html)
+- `voa-bag.mp3`: [Lesson 4 — What Is It?](https://learningenglish.voanews.com/a/lets-learn-english-lesson-4/3168920.html)
+
+[Условия VOA](https://learningenglish.voanews.com/p/6021.html): материалы, созданные исключительно VOA, находятся в public domain; при использовании требуется атрибуция VOA. Сторонние материалы информагентств не входят в это разрешение; такие материалы для аудиобиблиотеки не использованы. Оригинальные ссылки на MP3 и источник сохранены в `listening-content.js`.
+
+Остальные шесть сценариев и вопросы написаны для «Эквивалента». Учебные аудиозаписи подготовлены системными английскими голосами Samantha (US) и Daniel (UK); это не записи выступлений носителей. Пользовательские ответы и голос учащегося не отправляются на сервер; микрофон не используется.

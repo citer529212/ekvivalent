@@ -66,7 +66,7 @@ case'card-add':{state.cards??={};const key=el.dataset.key;state.cards[key]={due:
 case'flash-flip':flash.revealed=true;render();break;
 case'flash-grade':if(flash?.revealed){const w=flash.words[flash.index],q=makeVocabQuestions([w],'input')[0];saveGenerated([q]);record(q,arg==='1');if(arg==='1')flash.correct++;flash.index++;flash.revealed=false;if(flash.index===flash.words.length)state.history.unshift({title:'Карточки · самооценка',kind:'practice',date:new Date().toISOString(),correct:flash.correct,total:flash.words.length,selfAssessed:flash.words.length});persist();render();}break;
 case'speak-word':speak(el.dataset.en);break;
-case'speak-current':speak(questionBy(quiz.ids[quiz.index]).audio);break;
+case'speak-current':{const q=questionBy(quiz.ids[quiz.index]);if(q.clipSrc&&typeof playListeningRecording==='function')playListeningRecording(q.clipSrc);else speak(q.audio);break;}
 case'speak-flash':speak(flash.words[flash.index].en);break;
 case'speak-lesson':speak(COURSE_LESSONS.find(l=>l.id===arg).text.en);break;
 case'test-voice':speak('Welcome to Эквивалент. Listen and learn at your own pace.');break;
