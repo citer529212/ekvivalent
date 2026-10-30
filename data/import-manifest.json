@@ -1,0 +1,23 @@
+{
+  "source": "30.10.html",
+  "source_sha256": "f9641b9dc80a5d3194559e59a1a675e8ff4444a8d3b6c7d5e974c20ce614687a",
+  "topics": 124,
+  "drill_exercises": 11310,
+  "placement_items": 2000,
+  "lessons": 40,
+  "texts": 322,
+  "words": 31190,
+  "dictionary_en": 66406,
+  "dictionary_ru": 45968,
+  "lexis": {
+    "A0": 720,
+    "A1": 800,
+    "A2": 1000,
+    "B1": 1500,
+    "B2": 2200,
+    "C1": 3500
+  },
+  "cliches": 129,
+  "terms": 398,
+  "abbreviations": 355
+}
