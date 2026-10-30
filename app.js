@@ -1,8 +1,9 @@
 'use strict';
 const KEY='english-compass-v1';
+let progressStorageKey=window.EKV_ACCOUNT_BOOT?window.EKV_ACCOUNT_CACHE_PREFIX+window.EKV_ACCOUNT_BOOT.user.id:KEY;
 const fresh=()=>({version:1,result:null,attempts:{},mistakes:[],history:[],daily:{},diagnostic:null,practice:null,goal:10,cards:{},lessons:{},reading:{},grammarFormat:"all",grammarCategory:"all"});
 let state=fresh(),storageOK=true;
-try{const saved=JSON.parse(localStorage.getItem(KEY)||'null');if(saved&&saved.version===1)state={...fresh(),...saved};}catch(e){storageOK=false;}
+try{const saved=JSON.parse(localStorage.getItem(progressStorageKey)||'null');if(saved&&saved.version===1)state={...fresh(),...saved};}catch(e){storageOK=false;}
 const app=document.querySelector('#app');
 let filter='all',search='',quiz=null,chosen=null,feedback=false,resetArmed=false;
 const topicBy=id=>TOPICS.find(t=>t.id===id);
@@ -10,7 +11,7 @@ const questionBy=id=>QUESTION_INDEX.get(id)||state.generatedQuestions?.[id]||qui
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const shuffle=a=>{const out=[...a];for(let i=out.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[out[i],out[j]]=[out[j],out[i]];}return out;};
 function today(){const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
-function persist(){try{localStorage.setItem(KEY,JSON.stringify(state));}catch(e){storageOK=false;toast('Браузер не разрешил сохранение. Оставьте вкладку открытой.');}document.querySelector('#error-count').textContent=state.mistakes.length;}
+function persist(){try{localStorage.setItem(progressStorageKey,JSON.stringify(state));}catch(e){storageOK=false;toast('Браузер не разрешил сохранение. Оставьте вкладку открытой.');}document.querySelector('#error-count').textContent=state.mistakes.length;}
 function toast(message){const t=document.querySelector('#toast');t.textContent=message;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3500);}
 function go(route){if(location.hash==='#'+route)render();else location.hash=route;}
 function button(text,action,classes=''){return `<button class="btn ${classes}" data-action="${action}">${text}</button>`;}
