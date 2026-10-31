@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import {webcrypto} from 'node:crypto';
+import {createSmsHandler} from './supabase/functions/ekvivalent-send-sms/index.ts';
+const rawSecret=Buffer.from('only-a-test-hook-signing-secret-32bytes');
+const vars={SEND_SMS_HOOK_SECRET:'v1,whsec_'+rawSecret.toString('base64'),SMS_RU_API_ID:'test-only-api-key',SUPABASE_URL:'https://test.supabase.co',SUPABASE_SERVICE_ROLE_KEY:'test-only-service-key'};
+const now=Date.now(),stamp=String(Math.floor(now/1000)),body=JSON.stringify({user:{phone:'+79000000001'},sms:{otp:'654321'}}),calls=[],queue=[];
+const handler=createSmsHandler({env:n=>vars[n],cryptoImpl:webcrypto,now:()=>now,fetchImpl:async(url,opts)=>{calls.push({url,opts});const item=queue.shift();assert(item,'Unexpected call');assert.equal(url,item.url);return new Response(JSON.stringify(item.body),{status:item.status||200,headers:{'Content-Type':'application/json'}});}});
+async function signed(payload=body,id='hook_1',time=stamp){const key=await webcrypto.subtle.importKey('raw',rawSecret,{name:'HMAC',hash:'SHA-256'},false,['sign']);const sig=Buffer.from(await webcrypto.subtle.sign('HMAC',key,new TextEncoder().encode(id+'.'+time+'.'+payload))).toString('base64');return new Request('https://test.supabase.co/functions/v1/ekvivalent-send-sms',{method:'POST',headers:{'webhook-id':id,'webhook-timestamp':time,'webhook-signature':'v1,'+sig},body:payload});}
+const rpc=(name,body)=>queue.push({url:'https://test.supabase.co/rest/v1/rpc/'+name,body});
+assert.equal((await handler(new Request('https://test/',{method:'POST',body:'{}'}))).status,401);assert.equal(calls.length,0);
+assert.equal((await handler(await signed(body,'stale',String(Number(stamp)-301)))).status,401);assert.equal(calls.length,0);
+const tampered=await signed();const headers=Object.fromEntries(tampered.headers);assert.equal((await handler(new Request(tampered.url,{method:'POST',headers,body:body+' '}))).status,401);assert.equal(calls.length,0);
+assert.equal((await handler(await signed(body.replace('+79000000001','+15550000001')))).status,400);assert.equal(calls.length,0);
+rpc('ekvivalent_sms_claim',{status:'limited'});assert.equal((await handler(await signed())).status,429);assert.equal(calls.filter(c=>c.url.startsWith('https://sms.ru/')).length,0);
+rpc('ekvivalent_sms_claim',{status:'sent'});assert.equal((await handler(await signed())).status,200);assert.equal(calls.filter(c=>c.url.startsWith('https://sms.ru/')).length,0);
+rpc('ekvivalent_sms_claim',{status:'claimed'});queue.push({url:'https://sms.ru/sms/send',body:{status_code:100,sms:{79000000001:{status_code:100}}}});rpc('ekvivalent_sms_finish',null);assert.equal((await handler(await signed(body,'hook_ok'))).status,200);
+const vendor=calls.find(c=>c.url.startsWith('https://sms.ru/'));assert.equal(new URLSearchParams(vendor.opts.body).get('api_id'),'test-only-api-key');assert.equal(new URLSearchParams(vendor.opts.body).get('to'),'79000000001');assert.equal(vendor.opts.redirect,'error');assert.equal(JSON.parse(calls.at(-1).opts.body).p_sent,true);
+rpc('ekvivalent_sms_claim',{status:'claimed'});queue.push({url:'https://sms.ru/sms/send',body:{status_code:100,sms:{79000000001:{status_code:201}}}});rpc('ekvivalent_sms_finish',null);assert.equal((await handler(await signed(body,'hook_fail'))).status,503);assert.equal(JSON.parse(calls.at(-1).opts.body).p_sent,false);
+rpc('ekvivalent_sms_claim',{status:'sent'});assert.equal((await handler(await signed(body.replace('+79000000001','79000000001'),'digits_phone'))).status,200);
+const disabled=createSmsHandler({env:()=>'',now:()=>now});assert.equal((await disabled(await signed())).status,503);
+assert.equal(queue.length,0);assert(!calls.filter(c=>c.url.includes('/rest/')).some(c=>c.opts.body.includes('654321')),'OTP written to database');
+console.log('PASS: signed SMS hook rejects unsigned, stale, tampered and foreign-number requests; budget enforced; duplicate sends skipped; per-number vendor errors rejected; credentials stay server-side; OTP not written to budget database.');
