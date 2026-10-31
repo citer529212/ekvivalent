@@ -1,7 +1,7 @@
 const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/strict');
 const nodes={};const node=()=>({innerHTML:'',textContent:'',dataset:{},classList:{add(){},remove(){},toggle(){},contains(){return false;}},setAttribute(){},removeAttribute(){},focus(){},addEventListener(){},querySelector(){return null;},querySelectorAll(){return [];}});
 const sandbox={document:{body:node(),documentElement:node(),addEventListener(){},querySelector:s=>nodes[s]??=node(),querySelectorAll:()=>[],createElement:()=>({...node(),click(){}})},localStorage:{getItem:()=>null,setItem(){}},location:{_hash:'',get hash(){return this._hash;},set hash(v){this._hash=v&&!v.startsWith('#')?'#'+v:v;}},history:{replaceState(){}},window:{addEventListener(){},scrollTo(){},matchMedia(){return {matches:false,addEventListener(){}};}},console,Date,Math,JSON,Set,Map,Blob,URL,setTimeout(){},clearTimeout(){},fetch:()=>Promise.reject(Error('not expected'))};
-vm.createContext(sandbox);for(const f of ['content','imported','catalog','app','enrichment','design','experience','listening-content','listening'])vm.runInContext(fs.readFileSync(f+'.js','utf8'),sandbox,{timeout:10000});
+vm.createContext(sandbox);for(const f of ['content','imported','catalog','app','enrichment','design','experience','listening-content','listening','learning'])vm.runInContext(fs.readFileSync(f+'.js','utf8'),sandbox,{timeout:10000});
 vm.runInContext(`
 function check(ok,msg){if(!ok)throw Error(msg);}
 check(TOPICS.length===148&&BANK.length===11910&&ASSESSMENT.length===2000,'Import counts');
