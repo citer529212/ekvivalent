@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T05:59:08.027906+00:00",
+  "updated": "2026-11-02T15:47:52.214987+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,35 +9,75 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "83f9b7f4ae34ad1f",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 15:12:22 GMT",
+      "section": "world"
+    },
+    {
       "id": "105dd427b029f799",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
       "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 01:18:27 GMT",
+      "published": "Mon, 02 Nov 2026 14:35:01 GMT",
       "section": "world"
     },
     {
-      "id": "d99340fc39d91895",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 21:55:01 GMT",
+      "id": "e3b756138fe24336",
+      "title": "Nine killed as small jet crashes on Florida street",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 09:10:19 GMT",
       "section": "world"
     },
     {
-      "id": "189e284fa7d7d78a",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 01:45:42 GMT",
+      "id": "5d4ca73724edaa6a",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 10:48:47 GMT",
       "section": "world"
     },
     {
-      "id": "947eeaf0750c1a62",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 17:06:32 GMT",
+      "id": "51989af3e30c5734",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:35:38 GMT",
+      "section": "world"
+    },
+    {
+      "id": "f2de8e72f98519e1",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 12:22:10 GMT",
+      "section": "world"
+    },
+    {
+      "id": "62fdb0afd8785200",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 07:42:33 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8926691970afb98a",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "summary": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 12:05:34 GMT",
+      "section": "world"
+    },
+    {
+      "id": "89fc8f48f3fc7507",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 03:58:38 GMT",
       "section": "world"
     },
     {
@@ -49,11 +89,19 @@
       "section": "world"
     },
     {
-      "id": "d35ebe7fd60cb9cd",
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 17:05:18 GMT",
+      "id": "9d25dae59b5cfa43",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 08:03:39 GMT",
+      "section": "world"
+    },
+    {
+      "id": "947eeaf0750c1a62",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:06:32 GMT",
       "section": "world"
     },
     {
@@ -62,6 +110,14 @@
       "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
       "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 17:56:47 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d35ebe7fd60cb9cd",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:05:18 GMT",
       "section": "world"
     },
     {
@@ -121,91 +177,35 @@
       "section": "world"
     },
     {
-      "id": "f1e04e3b7f91dcbe",
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 14:28:15 GMT",
+      "id": "0bd2d47a6d6698b3",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:24:25 GMT",
       "section": "world"
     },
     {
-      "id": "0783a78dc33abe0d",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 05:44:21 GMT",
+      "id": "dfe3ddb2f6f0a547",
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
+      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:05:34 GMT",
       "section": "world"
     },
     {
-      "id": "deefa82a83a2bcad",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+      "id": "1d5f6f34bdfd7747",
+      "title": "What are Americans voting for in this election?",
+      "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
+      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 09:22:55 GMT",
       "section": "world"
     },
     {
-      "id": "b0b7c3efd75243fd",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 01:27:05 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f82d36e932f57057",
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
-      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 18:51:56 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dee8666c86012a0c",
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 05:26:02 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c1e60918b29464db",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT",
-      "section": "world"
-    },
-    {
-      "id": "eda8479e11ea57b7",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 16:55:47 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e10069f8e2c7b8d4",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 09:16:14 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f7a1968f92cbddfa",
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
-      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "cce1a6a01f58ec15",
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 17:29:08 GMT",
+      "id": "eb0cbb9c7fd3c335",
+      "title": "Americast",
+      "summary": "Will this stop the Democrats taking back the Senate?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pkt7t5?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:58:00 GMT",
       "section": "world"
     },
     {
@@ -246,6 +246,14 @@
       "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
       "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 13:41:07 GMT",
+      "section": "science"
+    },
+    {
+      "id": "b0b7c3efd75243fd",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 01:27:05 GMT",
       "section": "science"
     },
     {
@@ -305,6 +313,30 @@
       "section": "science"
     },
     {
+      "id": "560643a50860e548",
+      "title": "'New kit' helps battle against bugs",
+      "summary": "The chemical-free decoys are used while clearing riverside vegetation.",
+      "url": "https://www.bbc.co.uk/news/videos/cm369dep8jwno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 15:05:59 GMT",
+      "section": "science"
+    },
+    {
+      "id": "1c5dc15dcee579e2",
+      "title": "Woman who flew with swans warns of lead danger",
+      "summary": "Sacha Dench, known as the \"human swan\", welcomes new laws banning the sale of lead ammunition.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly0r3kp1mlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:22:00 GMT",
+      "section": "science"
+    },
+    {
+      "id": "223beb3d66879210",
+      "title": "Verdict delayed on controversial sea defences",
+      "summary": "The council have deferred a decision on the building of 17 rock groynes after RNLI safety concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vz2jj409vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:16:34 GMT",
+      "section": "science"
+    },
+    {
       "id": "bcd05d3afd4ba089",
       "title": "Aquarium shark that helped 'dispel myths' dies",
       "summary": "Staff at Plymouth's aquarium pay tribute to a sand tiger shark believed to be almost 30 years old.",
@@ -318,14 +350,6 @@
       "summary": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each.",
       "url": "https://www.bbc.co.uk/news/articles/cqrkypljk526o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 07:11:35 GMT",
-      "section": "science"
-    },
-    {
-      "id": "2a57b456b8f62d76",
-      "title": "Rare damselfly spotted by restored chalk river",
-      "summary": "The Herts and Middlesex Trust says it is \"thrilled\" the new wetlands are helping species thrive.",
-      "url": "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 06:19:16 GMT",
       "section": "science"
     },
     {
@@ -359,14 +383,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 25 Oct 2026 09:00:00 GMT",
       "section": "science"
-    },
-    {
-      "id": "62fdb0afd8785200",
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 03:32:14 GMT",
-      "section": "technology"
     },
     {
       "id": "de7377484e8d5621",
