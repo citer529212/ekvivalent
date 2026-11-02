@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T18:45:15.566370+00:00",
+  "updated": "2026-11-02T05:59:08.027906+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,27 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "f845da07825410f4",
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "id": "105dd427b029f799",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 01:18:27 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d99340fc39d91895",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:55:01 GMT",
+      "section": "world"
+    },
+    {
+      "id": "189e284fa7d7d78a",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 01:45:42 GMT",
       "section": "world"
     },
     {
@@ -22,6 +38,14 @@
       "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 17:06:32 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9e63bf21a4708cbb",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:15:30 GMT",
       "section": "world"
     },
     {
@@ -41,11 +65,11 @@
       "section": "world"
     },
     {
-      "id": "189e284fa7d7d78a",
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-      "summary": "Haley Stevens, a former congresswomen who lost out on the Democratic nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 18:24:08 GMT",
+      "id": "f845da07825410f4",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 11:57:48 GMT",
       "section": "world"
     },
     {
@@ -129,19 +153,11 @@
       "section": "world"
     },
     {
-      "id": "a1794eefe13088e1",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "section": "world"
-    },
-    {
-      "id": "03f161c6332a2077",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 22:11:52 GMT",
+      "id": "f82d36e932f57057",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 18:51:56 GMT",
       "section": "world"
     },
     {
@@ -177,11 +193,11 @@
       "section": "world"
     },
     {
-      "id": "74b72705acb4859f",
-      "title": "What's at stake for Trump in the US midterms?",
-      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:19:48 GMT",
+      "id": "f7a1968f92cbddfa",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 00:25:12 GMT",
       "section": "world"
     },
     {
@@ -190,22 +206,6 @@
       "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
       "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 17:29:08 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c71dce269c2d8a01",
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 06:03:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "fea61251420c3db9",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:55:06 GMT",
       "section": "world"
     },
     {
@@ -361,6 +361,14 @@
       "section": "science"
     },
     {
+      "id": "62fdb0afd8785200",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 03:32:14 GMT",
+      "section": "technology"
+    },
+    {
       "id": "de7377484e8d5621",
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
@@ -446,14 +454,6 @@
       "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
       "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 01:27:40 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "2c43e290abc0f3c1",
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:01:10 GMT",
       "section": "technology"
     },
     {
