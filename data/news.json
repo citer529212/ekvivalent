@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:47:52.214987+00:00",
+  "updated": "2026-11-03T00:57:08.349912+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,27 +9,83 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "83f9b7f4ae34ad1f",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 15:12:22 GMT",
+      "id": "9bcfdc55331da27b",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 21:10:04 GMT",
       "section": "world"
     },
     {
-      "id": "105dd427b029f799",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:35:01 GMT",
+      "id": "c380716d7c1b2ad5",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 00:07:05 GMT",
       "section": "world"
     },
     {
       "id": "e3b756138fe24336",
-      "title": "Nine killed as small jet crashes on Florida street",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+      "published": "Tue, 03 Nov 2026 00:08:14 GMT",
+      "section": "world"
+    },
+    {
+      "id": "83f9b7f4ae34ad1f",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6b62f0830533dc7d",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:33:19 GMT",
+      "section": "world"
+    },
+    {
+      "id": "04e8f100cd83342d",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 23:37:31 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9b03c5f551b45207",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 20:08:51 GMT",
+      "section": "world"
+    },
+    {
+      "id": "826e172c1e1aec37",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 17:29:49 GMT",
+      "section": "world"
+    },
+    {
+      "id": "2fe762314e024e09",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 19:33:10 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5772877934dbf8da",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 18:34:24 GMT",
       "section": "world"
     },
     {
@@ -153,65 +209,17 @@
       "section": "world"
     },
     {
-      "id": "9ff61a3915cfa949",
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:27:33 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e015812667bd44ac",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 00:46:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "060a985d9c7f79f8",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 15:16:20 GMT",
-      "section": "world"
-    },
-    {
-      "id": "0bd2d47a6d6698b3",
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:24:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dfe3ddb2f6f0a547",
-      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-      "summary": "BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.",
-      "url": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 06:05:34 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1d5f6f34bdfd7747",
-      "title": "What are Americans voting for in this election?",
-      "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 09:22:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "eb0cbb9c7fd3c335",
-      "title": "Americast",
-      "summary": "Will this stop the Democrats taking back the Senate?",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pkt7t5?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 06:58:00 GMT",
-      "section": "world"
+      "id": "730a40887ffe8e99",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 00:41:36 GMT",
+      "section": "science"
     },
     {
       "id": "ac1ada03b98d3f97",
       "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
       "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 18:04:52 GMT",
       "section": "science"
@@ -305,14 +313,6 @@
       "section": "science"
     },
     {
-      "id": "905d0b79f57be89e",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 12:08:01 GMT",
-      "section": "science"
-    },
-    {
       "id": "560643a50860e548",
       "title": "'New kit' helps battle against bugs",
       "summary": "The chemical-free decoys are used while clearing riverside vegetation.",
@@ -345,11 +345,11 @@
       "section": "science"
     },
     {
-      "id": "cc4c96efdc6deb33",
-      "title": "Rhino siblings celebrate first birthday with cake",
-      "summary": "Markus and Mo weighed about 70kg (11st) at birth, and now weigh about 500kg (78st) each.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkypljk526o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 07:11:35 GMT",
+      "id": "ffdfb14507659efc",
+      "title": "Do the Shetland Isles need Cold War-style military protection?",
+      "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+      "url": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 22:45:57 GMT",
       "section": "science"
     },
     {
@@ -377,12 +377,20 @@
       "section": "science"
     },
     {
-      "id": "e764a5389607640e",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "section": "science"
+      "id": "9da12d45db340b67",
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 00:29:00 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "5b9f2f37879a136a",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 18:25:01 GMT",
+      "section": "technology"
     },
     {
       "id": "de7377484e8d5621",
@@ -462,14 +470,6 @@
       "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 01:30:43 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "6f0240bccdc0badf",
-      "title": "Microsoft profits soar days after announcing thousands of layoffs",
-      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 01:27:40 GMT",
       "section": "technology"
     },
     {
