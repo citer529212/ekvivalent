@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T23:21:28.479241+00:00",
+  "updated": "2026-11-04T06:17:39.766384+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,6 +8,22 @@
   },
   "unavailable": [],
   "articles": [
+    {
+      "id": "fb0e681b52e3514f",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 03:24:34 GMT",
+      "section": "world"
+    },
+    {
+      "id": "b76e6aa8da320f05",
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 02:38:07 GMT",
+      "section": "world"
+    },
     {
       "id": "a5b086ccd08b4cef",
       "title": "Spanish transport minister resigns days after deadly train crash",
@@ -22,6 +38,14 @@
       "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 20:42:47 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c99cf4f2df7ba7e9",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 03:46:10 GMT",
       "section": "world"
     },
     {
@@ -41,19 +65,19 @@
       "section": "world"
     },
     {
-      "id": "e743b0302fdabad4",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 14:56:46 GMT",
-      "section": "world"
-    },
-    {
       "id": "c5713532d0c0b478",
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 13:55:47 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e743b0302fdabad4",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 14:56:46 GMT",
       "section": "world"
     },
     {
@@ -107,7 +131,7 @@
     {
       "id": "421050a981f43901",
       "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
       "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 15:05:01 GMT",
       "section": "world"
@@ -161,27 +185,11 @@
       "section": "world"
     },
     {
-      "id": "6b62f0830533dc7d",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:33:19 GMT",
-      "section": "world"
-    },
-    {
-      "id": "04e8f100cd83342d",
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 07:53:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "860a0e7c55bab773",
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 08:33:20 GMT",
+      "id": "e4daeae01fcb09e7",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 23:58:36 GMT",
       "section": "world"
     },
     {
@@ -201,19 +209,11 @@
       "section": "world"
     },
     {
-      "id": "1dff96957ba23953",
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:34:58 GMT",
-      "section": "world"
-    },
-    {
       "id": "de8616af94f83aa1",
       "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 23:00:14 GMT",
+      "published": "Wed, 04 Nov 2026 06:11:43 GMT",
       "section": "science"
     },
     {
@@ -305,6 +305,22 @@
       "section": "science"
     },
     {
+      "id": "f875a86fe186ff30",
+      "title": "Tiktoker 'super excited' to co-host BBC nature show",
+      "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 06:15:01 GMT",
+      "section": "science"
+    },
+    {
+      "id": "c55bcd61500bb10e",
+      "title": "Trust vows to 'maintain spirit' of nature reserve",
+      "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 05:57:48 GMT",
+      "section": "science"
+    },
+    {
       "id": "0b07673914f5cfa8",
       "title": "Action needed to tackle 'biodiversity crisis'",
       "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
@@ -329,14 +345,6 @@
       "section": "science"
     },
     {
-      "id": "a573ab72aacbddc2",
-      "title": "Boulders dropped off coast to disrupt deep fishing",
-      "summary": "Greenpeace drops nine large rocks to create a barrier to bottom-trawling fishing vessels.",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 10:53:09 GMT",
-      "section": "science"
-    },
-    {
       "id": "ffdfb14507659efc",
       "title": "Do the Shetland Isles need Cold War-style military protection?",
       "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
@@ -353,6 +361,14 @@
       "section": "science"
     },
     {
+      "id": "4f07d3c53b716ad9",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 00:04:35 GMT",
+      "section": "technology"
+    },
+    {
       "id": "a4648347bec45e1a",
       "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
       "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
@@ -366,6 +382,14 @@
       "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
       "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 11:10:37 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "860a0e7c55bab773",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 08:33:20 GMT",
       "section": "technology"
     },
     {
@@ -430,14 +454,6 @@
       "summary": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
       "url": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 11:35:51 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "8e8e4f8e579727c9",
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 09:33:51 GMT",
       "section": "technology"
     },
     {
