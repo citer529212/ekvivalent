@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:44:15.172433+00:00",
+  "updated": "2026-11-05T06:43:28.925395+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,27 +9,27 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "7eb1efdc2101c626",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+      "id": "e6b199bf98c83979",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 03:47:56 GMT",
       "section": "world"
     },
     {
-      "id": "5d000570d3259a75",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 18:01:31 GMT",
+      "id": "56b9ffa8fd550eb4",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 18:01:27 GMT",
       "section": "world"
     },
     {
-      "id": "16e3880f90bf9000",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 17:45:58 GMT",
+      "id": "b1a7a3701a980564",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 06:35:25 GMT",
       "section": "world"
     },
     {
@@ -41,6 +41,14 @@
       "section": "world"
     },
     {
+      "id": "63b80da325130f73",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 23:12:47 GMT",
+      "section": "world"
+    },
+    {
       "id": "0bf57da7297e0726",
       "title": "'Most difficult days of my life' for keeper Owono",
       "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
@@ -49,19 +57,35 @@
       "section": "world"
     },
     {
+      "id": "f0adda0821b82819",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 02:09:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a169aa09b8956fed",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 23:50:40 GMT",
+      "section": "world"
+    },
+    {
+      "id": "16e3880f90bf9000",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 22:48:43 GMT",
+      "section": "world"
+    },
+    {
       "id": "b3e17f1dddadae32",
       "title": "Israel's president begins consultations with parties after election deadlock",
       "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
       "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 16:18:21 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f032d238c1161944",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 07:39:38 GMT",
       "section": "world"
     },
     {
@@ -81,14 +105,6 @@
       "section": "world"
     },
     {
-      "id": "a2cf7e49d93e5008",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 11:47:44 GMT",
-      "section": "world"
-    },
-    {
       "id": "1e593827d5e101c4",
       "title": "Nadal set to join Real Madrid board of directors",
       "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
@@ -97,19 +113,11 @@
       "section": "world"
     },
     {
-      "id": "d1a157383a21ee2f",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 12:34:33 GMT",
-      "section": "world"
-    },
-    {
-      "id": "cc6e34e4745db08d",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 11:46:09 GMT",
+      "id": "df288263c981b414",
+      "title": "'Hopefully things get done': Americans react to historic political shift",
+      "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+      "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 22:34:08 GMT",
       "section": "world"
     },
     {
@@ -126,14 +134,6 @@
       "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 00:09:13 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b9de2b92c7468dbc",
-      "title": "What Florida jet audio and flight data tells us about its final moments",
-      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 19:49:22 GMT",
       "section": "world"
     },
     {
@@ -198,6 +198,14 @@
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 11:35:08 GMT",
+      "section": "science"
+    },
+    {
+      "id": "f032d238c1161944",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 07:39:38 GMT",
       "section": "science"
     },
     {
@@ -273,14 +281,6 @@
       "section": "science"
     },
     {
-      "id": "65b9e7b2a1d5913d",
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 06:35:37 GMT",
-      "section": "science"
-    },
-    {
       "id": "f875a86fe186ff30",
       "title": "Tiktoker 'super excited' to co-host BBC nature show",
       "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
@@ -321,6 +321,14 @@
       "section": "science"
     },
     {
+      "id": "65b9e7b2a1d5913d",
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 06:35:37 GMT",
+      "section": "science"
+    },
+    {
       "id": "91124b3ea1c87698",
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
@@ -330,10 +338,10 @@
     },
     {
       "id": "5420898fdc120aaa",
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
       "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 15:51:37 GMT",
+      "published": "Wed, 04 Nov 2026 21:41:15 GMT",
       "section": "technology"
     },
     {
