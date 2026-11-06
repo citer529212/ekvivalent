@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:40:56.896811+00:00",
+  "updated": "2026-11-06T19:22:42.744062+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,19 +9,59 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "7f806f4d6ebc196f",
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:00:59 GMT",
+      "id": "de0c28c9953fb6e7",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 17:03:02 GMT",
       "section": "world"
     },
     {
-      "id": "3d1809fe5e7d2a90",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 02:08:57 GMT",
+      "id": "9345adcc936c06fe",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:12:22 GMT",
+      "section": "world"
+    },
+    {
+      "id": "bf1e47684d2f391c",
+      "title": "Two dead after bus crashes in France, officials say",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
+      "section": "world"
+    },
+    {
+      "id": "55e7c02a81d113ed",
+      "title": "New wave of bomb threats hit European airlines",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "efbeca1e8e750597",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e9ffef40d8bab277",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 15:30:42 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ca5031a28a3ec123",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:51:38 GMT",
       "section": "world"
     },
     {
@@ -33,11 +73,43 @@
       "section": "world"
     },
     {
-      "id": "89b5f6f07cd9652c",
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 04:29:25 GMT",
+      "id": "392621ddc0fab958",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:51:01 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6628f0dec7a2589d",
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:57:08 GMT",
+      "section": "world"
+    },
+    {
+      "id": "25cd541ca2207ece",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 09:57:04 GMT",
+      "section": "world"
+    },
+    {
+      "id": "350215ce474dce9e",
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 08:18:10 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a4fee0499c3a64e8",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 07:33:41 GMT",
       "section": "world"
     },
     {
@@ -49,6 +121,22 @@
       "section": "world"
     },
     {
+      "id": "1298ab911e646bae",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 17:35:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d86ee1e3134a2a12",
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:46:21 GMT",
+      "section": "world"
+    },
+    {
       "id": "e8ecc5bc243f1f9c",
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
@@ -57,51 +145,11 @@
       "section": "world"
     },
     {
-      "id": "b5866cfe70f0100a",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 19:08:48 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d1175aa63bac5e5e",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:39:48 GMT",
-      "section": "world"
-    },
-    {
-      "id": "54ee0b3551a524aa",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:59:53 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2afbe0a37742b380",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 01:28:03 GMT",
-      "section": "world"
-    },
-    {
-      "id": "cf91e8ba59594a0e",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 19:32:54 GMT",
-      "section": "world"
-    },
-    {
-      "id": "0b645ea2a769f770",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 19:08:08 GMT",
+      "id": "8af314bb7a85de8c",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 15:02:03 GMT",
       "section": "world"
     },
     {
@@ -121,19 +169,27 @@
       "section": "world"
     },
     {
-      "id": "e4daeae01fcb09e7",
-      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
-      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 23:58:36 GMT",
+      "id": "58522887ad7d0857",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 13:23:44 GMT",
       "section": "world"
     },
     {
-      "id": "44063326be3c72f6",
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 00:09:13 GMT",
+      "id": "6dd3acf578e4aa42",
+      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:10:38 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d2b9303010106a59",
+      "title": "Homes and temples glow across India as Diwali celebrations begin",
+      "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:21:30 GMT",
       "section": "world"
     },
     {
@@ -146,35 +202,43 @@
     },
     {
       "id": "7b014650a0356d3f",
-      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "title": "Did a data centre revolt affect the US midterm election results?",
       "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
       "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 06:01:13 GMT",
       "section": "world"
     },
     {
-      "id": "2a46dc0a00e65778",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:16:53 GMT",
-      "section": "world"
+      "id": "134cb4c717d1d771",
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:43:30 GMT",
+      "section": "science"
     },
     {
-      "id": "e6b199bf98c83979",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 03:47:56 GMT",
-      "section": "world"
+      "id": "d7116f25563f5a9a",
+      "title": "A really simple guide to climate change",
+      "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:40:51 GMT",
+      "section": "science"
     },
     {
-      "id": "56898cfb97b9aac8",
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 19:58:40 GMT",
-      "section": "world"
+      "id": "f4c532d7ef6fa0bf",
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "summary": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:39:07 GMT",
+      "section": "science"
+    },
+    {
+      "id": "25010c6d34099bf8",
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
+      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:22:51 GMT",
+      "section": "science"
     },
     {
       "id": "6050192b65fb2d16",
@@ -182,6 +246,14 @@
       "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
       "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 01:22:39 GMT",
+      "section": "science"
+    },
+    {
+      "id": "2a46dc0a00e65778",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 23:16:53 GMT",
       "section": "science"
     },
     {
@@ -233,35 +305,11 @@
       "section": "science"
     },
     {
-      "id": "730a40887ffe8e99",
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 07:50:14 GMT",
-      "section": "science"
-    },
-    {
-      "id": "74eb36cdafe1bd29",
-      "title": "Major study into 'forever chemicals' in people's bodies launched in UK",
-      "summary": "The government is launching the first study to measure PFAS in the UK population to understand the risks.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 07:19:27 GMT",
-      "section": "science"
-    },
-    {
-      "id": "589ab00bb3ff9ab9",
-      "title": "AI data centres could undermine UK's emissions goals",
-      "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 06:27:17 GMT",
-      "section": "science"
-    },
-    {
-      "id": "d7809c711bfd9606",
-      "title": "Scientists detect signals at the smallest scale ever explored",
-      "summary": "Researchers have detected signals from the smallest distances ever probed.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 06:01:23 GMT",
+      "id": "20865ba267ca9871",
+      "title": "Could you live on a remote island as a job?",
+      "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve.",
+      "url": "https://www.bbc.co.uk/news/videos/c6kg77jqpwk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 10:14:18 GMT",
       "section": "science"
     },
     {
@@ -281,11 +329,11 @@
       "section": "science"
     },
     {
-      "id": "458ed9f1cda14116",
-      "title": "Google refused 54K-name petition, say campaigners",
-      "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:30:03 GMT",
+      "id": "162a0bcb0e81b734",
+      "title": "US rockets firm eyes up mothballed Highland spaceport",
+      "summary": "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 12:47:23 GMT",
       "section": "science"
     },
     {
@@ -297,6 +345,14 @@
       "section": "science"
     },
     {
+      "id": "d7809c711bfd9606",
+      "title": "Scientists detect signals at the smallest scale ever explored",
+      "summary": "Researchers have detected signals from the smallest distances ever probed.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 03 Nov 2026 06:01:23 GMT",
+      "section": "science"
+    },
+    {
       "id": "65b9e7b2a1d5913d",
       "title": "'Rok' solid recognition for Slovenian space scientist",
       "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
@@ -305,12 +361,20 @@
       "section": "science"
     },
     {
-      "id": "91124b3ea1c87698",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 19:15:58 GMT",
-      "section": "science"
+      "id": "01856f52ceb43a68",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 18:32:16 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "7f806f4d6ebc196f",
+      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 13:25:50 GMT",
+      "section": "technology"
     },
     {
       "id": "3880731809dbbf5e",
@@ -382,30 +446,6 @@
       "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 18:25:01 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "62fdb0afd8785200",
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 07:42:33 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "de7377484e8d5621",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 01:37:26 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "d13e42607d018e9c",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 02:12:19 GMT",
       "section": "technology"
     },
     {
