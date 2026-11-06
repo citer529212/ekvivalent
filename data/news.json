@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:55:55.337906+00:00",
+  "updated": "2026-11-06T06:40:56.896811+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,6 +8,62 @@
   },
   "unavailable": [],
   "articles": [
+    {
+      "id": "7f806f4d6ebc196f",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:00:59 GMT",
+      "section": "world"
+    },
+    {
+      "id": "3d1809fe5e7d2a90",
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 02:08:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c3be5729c60de277",
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 00:02:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "89b5f6f07cd9652c",
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 04:29:25 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ffff2886fc4b1906",
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 23:09:33 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e8ecc5bc243f1f9c",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 17:40:40 GMT",
+      "section": "world"
+    },
+    {
+      "id": "b5866cfe70f0100a",
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 19:08:48 GMT",
+      "section": "world"
+    },
     {
       "id": "d1175aa63bac5e5e",
       "title": "Hoax bomb threats target European airlines and airports for second time in a week",
@@ -25,11 +81,11 @@
       "section": "world"
     },
     {
-      "id": "e8ecc5bc243f1f9c",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:40:40 GMT",
+      "id": "2afbe0a37742b380",
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 01:28:03 GMT",
       "section": "world"
     },
     {
@@ -49,59 +105,11 @@
       "section": "world"
     },
     {
-      "id": "621a067940ec3d17",
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:21:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f953b6a930afde62",
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
-      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 15:44:49 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b1a7a3701a980564",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:51:03 GMT",
-      "section": "world"
-    },
-    {
-      "id": "63b80da325130f73",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 23:12:47 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f0adda0821b82819",
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 02:09:23 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e0d76b8e43b043e6",
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "summary": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 09:04:42 GMT",
-      "section": "world"
-    },
-    {
-      "id": "90a0c341841908c6",
-      "title": "Watch: How rapist Brand was never far from controversy",
-      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 14:28:21 GMT",
+      "id": "76510556b6b86f3e",
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 18:22:46 GMT",
       "section": "world"
     },
     {
@@ -129,11 +137,27 @@
       "section": "world"
     },
     {
-      "id": "1dff96957ba23953",
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "summary": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+      "id": "e0b609f23f25c318",
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:00:46 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7b014650a0356d3f",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:01:13 GMT",
+      "section": "world"
+    },
+    {
+      "id": "2a46dc0a00e65778",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 23:16:53 GMT",
       "section": "world"
     },
     {
@@ -145,36 +169,20 @@
       "section": "world"
     },
     {
-      "id": "77a694b1d49af6bb",
-      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-      "summary": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:32:09 GMT",
+      "id": "56898cfb97b9aac8",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 19:58:40 GMT",
       "section": "world"
     },
     {
-      "id": "9e1ba5f3444ece5b",
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 14:29:40 GMT",
-      "section": "world"
-    },
-    {
-      "id": "977168bf3f76e77a",
-      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
-      "summary": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 00:30:37 GMT",
-      "section": "world"
-    },
-    {
-      "id": "a2cf7e49d93e5008",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 11:47:44 GMT",
-      "section": "world"
+      "id": "6050192b65fb2d16",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 01:22:39 GMT",
+      "section": "science"
     },
     {
       "id": "99ca05fb3e413bbb",
@@ -182,6 +190,14 @@
       "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
       "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 14:51:45 GMT",
+      "section": "science"
+    },
+    {
+      "id": "63b80da325130f73",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Nov 2026 23:12:47 GMT",
       "section": "science"
     },
     {
@@ -249,19 +265,19 @@
       "section": "science"
     },
     {
-      "id": "ac1ada03b98d3f97",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 18:04:52 GMT",
+      "id": "37970870da4aa5a2",
+      "title": "'Extra special' tamarin twins born at zoo",
+      "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:15:18 GMT",
       "section": "science"
     },
     {
-      "id": "2fbe4a060bd0e9ed",
-      "title": "Spill from vandalised home oil tank kills 13 birds",
-      "summary": "A number of birds are also injured after the spill from the oil tank earlier this week.",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 08:57:56 GMT",
+      "id": "75a2135f0f88a08d",
+      "title": "Over 1,000 tonnes of sewage seen at landfill site",
+      "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 20:01:05 GMT",
       "section": "science"
     },
     {
@@ -270,22 +286,6 @@
       "summary": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
       "url": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 11:30:03 GMT",
-      "section": "science"
-    },
-    {
-      "id": "f875a86fe186ff30",
-      "title": "Tiktoker 'super excited' to co-host BBC nature show",
-      "summary": "Naturewatch, hosted by Chris Packham, Megan McCubbin and Kyle Thomas, is being made in Bristol.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93pgydvzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 06:15:01 GMT",
-      "section": "science"
-    },
-    {
-      "id": "c55bcd61500bb10e",
-      "title": "Trust vows to 'maintain spirit' of nature reserve",
-      "summary": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv0ywnvl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 05:57:48 GMT",
       "section": "science"
     },
     {
@@ -313,11 +313,11 @@
       "section": "science"
     },
     {
-      "id": "7f806f4d6ebc196f",
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:57:57 GMT",
+      "id": "3880731809dbbf5e",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 00:06:06 GMT",
       "section": "technology"
     },
     {
@@ -406,14 +406,6 @@
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
       "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 31 Oct 2026 02:12:19 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "0de680b82ffb0bb6",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:34:46 GMT",
       "section": "technology"
     },
     {
