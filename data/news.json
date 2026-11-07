@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:22:42.744062+00:00",
+  "updated": "2026-11-07T05:56:39.496418+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -13,7 +13,7 @@
       "title": "AI stocks climb after trillions wiped from market values",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:03:02 GMT",
+      "published": "Fri, 06 Nov 2026 21:06:25 GMT",
       "section": "world"
     },
     {
@@ -41,11 +41,35 @@
       "section": "world"
     },
     {
+      "id": "8bd0144092331135",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 03:25:00 GMT",
+      "section": "world"
+    },
+    {
       "id": "efbeca1e8e750597",
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1ac43336cbc52c0f",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "section": "world"
+    },
+    {
+      "id": "fecc53ded7de64af",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:46:08 GMT",
       "section": "world"
     },
     {
@@ -93,7 +117,7 @@
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:57:04 GMT",
+      "published": "Fri, 06 Nov 2026 21:49:50 GMT",
       "section": "world"
     },
     {
@@ -169,44 +193,28 @@
       "section": "world"
     },
     {
-      "id": "58522887ad7d0857",
-      "title": "US midterm results spark fears in Israel over future of two countries' ties",
-      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 13:23:44 GMT",
+      "id": "0fde867bcd6db493",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:19:49 GMT",
       "section": "world"
     },
     {
-      "id": "6dd3acf578e4aa42",
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 10:10:38 GMT",
+      "id": "1d2074db1a3e5ae0",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:27:47 GMT",
       "section": "world"
     },
     {
-      "id": "d2b9303010106a59",
-      "title": "Homes and temples glow across India as Diwali celebrations begin",
-      "summary": "Millions of Indians will mark the festival of lights with glowing lamps, fireworks and traditional sweets",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 10:21:30 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e0b609f23f25c318",
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:00:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7b014650a0356d3f",
-      "title": "Did a data centre revolt affect the US midterm election results?",
-      "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:01:13 GMT",
-      "section": "world"
+      "id": "8523134642159141",
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 02:03:28 GMT",
+      "section": "science"
     },
     {
       "id": "134cb4c717d1d771",
@@ -294,14 +302,6 @@
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 06:11:43 GMT",
-      "section": "science"
-    },
-    {
-      "id": "123330adc58a44e0",
-      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-      "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 08:57:20 GMT",
       "section": "science"
     },
     {
