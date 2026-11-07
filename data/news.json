@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T05:56:39.496418+00:00",
+  "updated": "2026-11-07T12:58:03.081664+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,27 +9,43 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "6918e8874575f88f",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8bd0144092331135",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7bc889d73f785e59",
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:49:36 GMT",
+      "section": "world"
+    },
+    {
+      "id": "42531dc9299c2c06",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "section": "world"
+    },
+    {
       "id": "de0c28c9953fb6e7",
       "title": "AI stocks climb after trillions wiped from market values",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 21:06:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "9345adcc936c06fe",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:12:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "bf1e47684d2f391c",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
       "section": "world"
     },
     {
@@ -41,11 +57,11 @@
       "section": "world"
     },
     {
-      "id": "8bd0144092331135",
-      "title": "Paraguay's President Santiago Peña impeached and arrested",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 03:25:00 GMT",
+      "id": "1ac43336cbc52c0f",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
       "section": "world"
     },
     {
@@ -57,19 +73,11 @@
       "section": "world"
     },
     {
-      "id": "1ac43336cbc52c0f",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "section": "world"
-    },
-    {
-      "id": "fecc53ded7de64af",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "id": "bf1e47684d2f391c",
+      "title": "Two dead after bus crashes in France, officials say",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
       "section": "world"
     },
     {
@@ -81,19 +89,19 @@
       "section": "world"
     },
     {
+      "id": "fecc53ded7de64af",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "section": "world"
+    },
+    {
       "id": "ca5031a28a3ec123",
       "title": "Russian extremist group denies sending hoax bomb threats",
       "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 12:51:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c3be5729c60de277",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:02:57 GMT",
       "section": "world"
     },
     {
@@ -121,54 +129,6 @@
       "section": "world"
     },
     {
-      "id": "350215ce474dce9e",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 08:18:10 GMT",
-      "section": "world"
-    },
-    {
-      "id": "a4fee0499c3a64e8",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ffff2886fc4b1906",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:09:33 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1298ab911e646bae",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:35:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d86ee1e3134a2a12",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:46:21 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e8ecc5bc243f1f9c",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:40:40 GMT",
-      "section": "world"
-    },
-    {
       "id": "8af314bb7a85de8c",
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
@@ -193,6 +153,30 @@
       "section": "world"
     },
     {
+      "id": "1d2074db1a3e5ae0",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:27:47 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9345adcc936c06fe",
+      "title": "Four things we learned this week about 2028 White House race",
+      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:23:28 GMT",
+      "section": "world"
+    },
+    {
+      "id": "f57c987d75e562c8",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "summary": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:18:44 GMT",
+      "section": "world"
+    },
+    {
       "id": "0fde867bcd6db493",
       "title": "The young Somali woman changing how the world sees Mogadishu",
       "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
@@ -201,11 +185,11 @@
       "section": "world"
     },
     {
-      "id": "1d2074db1a3e5ae0",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:27:47 GMT",
+      "id": "58522887ad7d0857",
+      "title": "US midterm results spark fears in Israel over future of two countries' ties",
+      "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 13:23:44 GMT",
       "section": "world"
     },
     {
@@ -305,6 +289,14 @@
       "section": "science"
     },
     {
+      "id": "d68fc0e7c9f142a3",
+      "title": "New Forest wildfire restoration work begins",
+      "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 07:14:33 GMT",
+      "section": "science"
+    },
+    {
       "id": "20865ba267ca9871",
       "title": "Could you live on a remote island as a job?",
       "summary": "The new manager will start each workday surrounded by nature at the island wildlife reserve.",
@@ -318,14 +310,6 @@
       "summary": "Shaldon Wildlife Trust says it is one of two European zoos to breed the species in 2026.",
       "url": "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 06:15:18 GMT",
-      "section": "science"
-    },
-    {
-      "id": "75a2135f0f88a08d",
-      "title": "Over 1,000 tonnes of sewage seen at landfill site",
-      "summary": "The Environment Agency says it has issued the operator with a series of actions after an inspection.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 20:01:05 GMT",
       "section": "science"
     },
     {
