@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:58:03.081664+00:00",
+  "updated": "2026-11-07T21:48:39.723129+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -8,6 +8,46 @@
   },
   "unavailable": [],
   "articles": [
+    {
+      "id": "d04570c52c8f8b01",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 21:13:24 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a3a63a91f6daf1ab",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:56:28 GMT",
+      "section": "world"
+    },
+    {
+      "id": "082aa9ac915444e4",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6d8a06c4630839f6",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:09:24 GMT",
+      "section": "world"
+    },
+    {
+      "id": "062a70b67af36c2c",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+      "section": "world"
+    },
     {
       "id": "6918e8874575f88f",
       "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -18,18 +58,10 @@
     },
     {
       "id": "8bd0144092331135",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Paraguay's former president charged after bank collapse",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 07:20:00 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7bc889d73f785e59",
-      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 12:49:36 GMT",
+      "published": "Sat, 07 Nov 2026 19:17:22 GMT",
       "section": "world"
     },
     {
@@ -38,6 +70,38 @@
       "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
       "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c6ae51f0f919c58b",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7bc889d73f785e59",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:49:36 GMT",
+      "section": "world"
+    },
+    {
+      "id": "55e3db745181cc1d",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7ec4b19be3283c20",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 08:15:55 GMT",
       "section": "world"
     },
     {
@@ -73,59 +137,11 @@
       "section": "world"
     },
     {
-      "id": "bf1e47684d2f391c",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e9ffef40d8bab277",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:30:42 GMT",
-      "section": "world"
-    },
-    {
-      "id": "fecc53ded7de64af",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 23:46:08 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ca5031a28a3ec123",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:51:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "392621ddc0fab958",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:51:01 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6628f0dec7a2589d",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:57:08 GMT",
-      "section": "world"
-    },
-    {
-      "id": "25cd541ca2207ece",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:49:50 GMT",
+      "id": "6f87cce88ee43aa9",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:58:41 GMT",
       "section": "world"
     },
     {
@@ -142,14 +158,6 @@
       "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
       "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 18:22:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dc7d51146890cce1",
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 10:33:21 GMT",
       "section": "world"
     },
     {
@@ -343,6 +351,14 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 06:35:37 GMT",
       "section": "science"
+    },
+    {
+      "id": "25cd541ca2207ece",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 21:49:50 GMT",
+      "section": "technology"
     },
     {
       "id": "01856f52ceb43a68",
