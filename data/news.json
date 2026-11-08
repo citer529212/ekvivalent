@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:22:12.871662+00:00",
+  "updated": "2026-11-08T22:02:02.599844+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,35 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "d04570c52c8f8b01",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 11:22:17 GMT",
+      "id": "379d0639d8e7925b",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+      "section": "world"
+    },
+    {
+      "id": "07141ad7abea7551",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d2b9303010106a59",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+      "section": "world"
+    },
+    {
+      "id": "659206a1382c3234",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 13:37:50 GMT",
       "section": "world"
     },
     {
@@ -30,30 +54,6 @@
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 21:36:16 GMT",
-      "section": "world"
-    },
-    {
-      "id": "79a8ecf18d146019",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "section": "world"
-    },
-    {
-      "id": "082aa9ac915444e4",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "062a70b67af36c2c",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 15:19:35 GMT",
       "section": "world"
     },
     {
@@ -89,11 +89,27 @@
       "section": "world"
     },
     {
+      "id": "082aa9ac915444e4",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT",
+      "section": "world"
+    },
+    {
       "id": "55e3db745181cc1d",
       "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
       "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+      "section": "world"
+    },
+    {
+      "id": "062a70b67af36c2c",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT",
       "section": "world"
     },
     {
@@ -137,6 +153,14 @@
       "section": "world"
     },
     {
+      "id": "f386653fd1a3aece",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 16:05:57 GMT",
+      "section": "world"
+    },
+    {
       "id": "e85d434e59bbd389",
       "title": "How the deadly shooting in Krakow unfolded",
       "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
@@ -161,14 +185,6 @@
       "section": "world"
     },
     {
-      "id": "76510556b6b86f3e",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "summary": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
-      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 18:22:46 GMT",
-      "section": "world"
-    },
-    {
       "id": "3d868371b5a44de0",
       "title": "The Trump coalition is shattered - what will Republicans do now?",
       "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
@@ -190,22 +206,6 @@
       "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
       "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 01:27:47 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6918e8874575f88f",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 23:24:15 GMT",
-      "section": "world"
-    },
-    {
-      "id": "0fde867bcd6db493",
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:19:49 GMT",
       "section": "world"
     },
     {
@@ -373,7 +373,7 @@
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
       "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 11:25:32 GMT",
+      "published": "Sun, 08 Nov 2026 15:37:25 GMT",
       "section": "technology"
     },
     {
