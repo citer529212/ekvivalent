@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:48:39.723129+00:00",
+  "updated": "2026-11-08T05:58:13.711460+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -11,9 +11,17 @@
     {
       "id": "d04570c52c8f8b01",
       "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 21:13:24 GMT",
+      "published": "Sun, 08 Nov 2026 01:47:41 GMT",
+      "section": "world"
+    },
+    {
+      "id": "79a8ecf18d146019",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:19:59 GMT",
       "section": "world"
     },
     {
@@ -27,17 +35,17 @@
     {
       "id": "082aa9ac915444e4",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 18:14:38 GMT",
       "section": "world"
     },
     {
       "id": "6d8a06c4630839f6",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
       "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 17:09:24 GMT",
+      "published": "Sun, 08 Nov 2026 04:03:12 GMT",
       "section": "world"
     },
     {
@@ -353,6 +361,14 @@
       "section": "science"
     },
     {
+      "id": "e3d6f99e0ff04bc7",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 00:37:45 GMT",
+      "section": "technology"
+    },
+    {
       "id": "25cd541ca2207ece",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -438,14 +454,6 @@
       "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 08:33:20 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "5b9f2f37879a136a",
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 18:25:01 GMT",
       "section": "technology"
     },
     {
