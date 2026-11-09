@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:02:02.599844+00:00",
+  "updated": "2026-11-09T06:23:17.389569+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,19 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "90b23b1d03a122e8",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:00:26 GMT",
+      "section": "world"
+    },
+    {
       "id": "379d0639d8e7925b",
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+      "published": "Sun, 08 Nov 2026 23:34:18 GMT",
       "section": "world"
     },
     {
@@ -25,6 +33,22 @@
       "section": "world"
     },
     {
+      "id": "81f22044c23e4a55",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 05:30:37 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4688c3e49b475ee5",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "section": "world"
+    },
+    {
       "id": "d2b9303010106a59",
       "title": "Homes and temples glow across India to mark Diwali",
       "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
@@ -33,19 +57,11 @@
       "section": "world"
     },
     {
-      "id": "659206a1382c3234",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 13:37:50 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6d8a06c4630839f6",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+      "id": "f6a555d4b54618fb",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 21:37:36 GMT",
       "section": "world"
     },
     {
@@ -57,19 +73,19 @@
       "section": "world"
     },
     {
+      "id": "659206a1382c3234",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+      "section": "world"
+    },
+    {
       "id": "8bd0144092331135",
       "title": "Paraguay's former president charged after bank collapse",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 19:17:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "42531dc9299c2c06",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 06:59:48 GMT",
       "section": "world"
     },
     {
@@ -129,27 +145,11 @@
       "section": "world"
     },
     {
-      "id": "55e7c02a81d113ed",
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:25:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1ac43336cbc52c0f",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "section": "world"
-    },
-    {
-      "id": "efbeca1e8e750597",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "id": "154b6124576d3e4c",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 22:05:12 GMT",
       "section": "world"
     },
     {
@@ -185,6 +185,14 @@
       "section": "world"
     },
     {
+      "id": "e869dd4c2eff5433",
+      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:01:52 GMT",
+      "section": "world"
+    },
+    {
       "id": "3d868371b5a44de0",
       "title": "The Trump coalition is shattered - what will Republicans do now?",
       "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
@@ -201,12 +209,12 @@
       "section": "world"
     },
     {
-      "id": "1d2074db1a3e5ae0",
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:27:47 GMT",
-      "section": "world"
+      "id": "fc02bbd89b1139cd",
+      "title": "A glimmer of good news for Britain's sleepy dormouse",
+      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+      "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 00:56:43 GMT",
+      "section": "science"
     },
     {
       "id": "8523134642159141",
@@ -305,6 +313,22 @@
       "section": "science"
     },
     {
+      "id": "53bae0469ea4a94f",
+      "title": "How yesterday's waste is becoming tomorrow's fashion",
+      "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:05:15 GMT",
+      "section": "science"
+    },
+    {
+      "id": "f4655e6b10487fc2",
+      "title": "Charity wants bee, bird and butterfly population boost",
+      "summary": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:00:40 GMT",
+      "section": "science"
+    },
+    {
       "id": "0437df85bdd2106e",
       "title": "Dormice 'thrive' at National Trust site",
       "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
@@ -321,19 +345,11 @@
       "section": "science"
     },
     {
-      "id": "8a2740c2ce43d401",
-      "title": "Hundreds of seagrass shoots found in estuary",
-      "summary": "There were fears a restoration trial may not succeed when only six seedlings had emerged in April.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 07:06:13 GMT",
-      "section": "science"
-    },
-    {
-      "id": "d68fc0e7c9f142a3",
-      "title": "New Forest wildfire restoration work begins",
-      "summary": "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 07:14:33 GMT",
+      "id": "c9e8be921c9e89a5",
+      "title": "Print commissioned by Nasa uncovered for exhibition",
+      "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale.",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:18:19 GMT",
       "section": "science"
     },
     {
@@ -358,14 +374,6 @@
       "summary": "Researchers have detected signals from the smallest distances ever probed.",
       "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 06:01:23 GMT",
-      "section": "science"
-    },
-    {
-      "id": "65b9e7b2a1d5913d",
-      "title": "'Rok' solid recognition for Slovenian space scientist",
-      "summary": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 06:35:37 GMT",
       "section": "science"
     },
     {
@@ -454,14 +462,6 @@
       "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
       "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 13:07:00 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "9da12d45db340b67",
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 11:10:37 GMT",
       "section": "technology"
     },
     {
