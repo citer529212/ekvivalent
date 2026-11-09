@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:23:17.389569+00:00",
+  "updated": "2026-11-09T22:19:46.168935+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,35 +9,91 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "90b23b1d03a122e8",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:00:26 GMT",
+      "id": "afdc6ec15c3be9fd",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 20:20:08 GMT",
       "section": "world"
     },
     {
-      "id": "379d0639d8e7925b",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "id": "c4bc507025bdc22c",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 19:58:01 GMT",
       "section": "world"
     },
     {
-      "id": "07141ad7abea7551",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+      "id": "563627d5634d0b21",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 17:47:29 GMT",
       "section": "world"
     },
     {
-      "id": "81f22044c23e4a55",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 05:30:37 GMT",
+      "id": "dbedcaa7a86dba96",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 20:42:04 GMT",
+      "section": "world"
+    },
+    {
+      "id": "64de75add4ac8f42",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 21:37:02 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4a6aece1109d2634",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 17:06:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e5d0742cfbaa9454",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 18:08:07 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d874e98ba1892e40",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 22:17:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e573ed3951e8163c",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 16:33:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "33f8c47084864e07",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 11:56:25 GMT",
+      "section": "world"
+    },
+    {
+      "id": "27e55c022079d6ac",
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 13:50:01 GMT",
       "section": "world"
     },
     {
@@ -49,99 +105,59 @@
       "section": "world"
     },
     {
-      "id": "d2b9303010106a59",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+      "id": "81f22044c23e4a55",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 05:30:37 GMT",
       "section": "world"
     },
     {
-      "id": "f6a555d4b54618fb",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 21:37:36 GMT",
+      "id": "aa3a8317433b5331",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 10:41:57 GMT",
       "section": "world"
     },
     {
-      "id": "c4c648932b3d7ff1",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+      "id": "7c67e426ffe21dd1",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 08:49:17 GMT",
       "section": "world"
     },
     {
-      "id": "659206a1382c3234",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+      "id": "024f760437add5ad",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 19:09:27 GMT",
       "section": "world"
     },
     {
-      "id": "8bd0144092331135",
-      "title": "Paraguay's former president charged after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 19:17:22 GMT",
+      "id": "e116d0b1412517fd",
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 16:59:46 GMT",
       "section": "world"
     },
     {
-      "id": "c6ae51f0f919c58b",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 16:50:06 GMT",
+      "id": "73882470a9b31a7c",
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 14:50:35 GMT",
       "section": "world"
     },
     {
-      "id": "7bc889d73f785e59",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 12:49:36 GMT",
-      "section": "world"
-    },
-    {
-      "id": "082aa9ac915444e4",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "55e3db745181cc1d",
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 07:27:44 GMT",
-      "section": "world"
-    },
-    {
-      "id": "062a70b67af36c2c",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 15:19:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7ec4b19be3283c20",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 08:15:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "de0c28c9953fb6e7",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "id": "7e2c736f396f80e8",
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 07:10:11 GMT",
       "section": "world"
     },
     {
@@ -161,35 +177,27 @@
       "section": "world"
     },
     {
-      "id": "e85d434e59bbd389",
-      "title": "How the deadly shooting in Krakow unfolded",
-      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 09:29:24 GMT",
+      "id": "a4177bf4c6759b03",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 21:52:28 GMT",
       "section": "world"
     },
     {
-      "id": "6f87cce88ee43aa9",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 17:58:41 GMT",
-      "section": "world"
-    },
-    {
-      "id": "8af314bb7a85de8c",
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:02:03 GMT",
+      "id": "90b23b1d03a122e8",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 06:00:26 GMT",
       "section": "world"
     },
     {
       "id": "e869dd4c2eff5433",
-      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:01:52 GMT",
+      "published": "Mon, 09 Nov 2026 15:46:20 GMT",
       "section": "world"
     },
     {
@@ -201,12 +209,20 @@
       "section": "world"
     },
     {
-      "id": "ff8dac294fc817cb",
-      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-      "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 00:48:59 GMT",
-      "section": "world"
+      "id": "4a797523648a6230",
+      "title": "Birds return to waterfowl park after oil vandalism",
+      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 14:52:07 GMT",
+      "section": "science"
+    },
+    {
+      "id": "44f8ac73737099ec",
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 07:30:12 GMT",
+      "section": "science"
     },
     {
       "id": "fc02bbd89b1139cd",
@@ -218,8 +234,8 @@
     },
     {
       "id": "8523134642159141",
-      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-      "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+      "title": "One of the year's most prolific meteor showers visible in the night sky throughout November",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors continues through November.",
       "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 02:03:28 GMT",
       "section": "science"
@@ -297,19 +313,11 @@
       "section": "science"
     },
     {
-      "id": "f032d238c1161944",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 07:39:38 GMT",
-      "section": "science"
-    },
-    {
-      "id": "de8616af94f83aa1",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 06:11:43 GMT",
+      "id": "dac979c190f39db9",
+      "title": "Rising cost of living tests UK's net zero ambitions",
+      "summary": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+      "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 13:42:03 GMT",
       "section": "science"
     },
     {
@@ -317,7 +325,7 @@
       "title": "How yesterday's waste is becoming tomorrow's fashion",
       "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
       "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:05:15 GMT",
+      "published": "Mon, 09 Nov 2026 13:18:38 GMT",
       "section": "science"
     },
     {
@@ -326,22 +334,6 @@
       "summary": "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project.",
       "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 06:00:40 GMT",
-      "section": "science"
-    },
-    {
-      "id": "0437df85bdd2106e",
-      "title": "Dormice 'thrive' at National Trust site",
-      "summary": "Killerton National Trust has 100 nest boxes across its estate in Devon.",
-      "url": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 12:22:05 GMT",
-      "section": "science"
-    },
-    {
-      "id": "0c5c3322b9873537",
-      "title": "Countryside managers prepare for climate change",
-      "summary": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 07:16:55 GMT",
       "section": "science"
     },
     {
@@ -401,6 +393,14 @@
       "section": "technology"
     },
     {
+      "id": "de0c28c9953fb6e7",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "section": "technology"
+    },
+    {
       "id": "01856f52ceb43a68",
       "title": "Why the US midterms sparked an AI stock selloff",
       "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
@@ -446,22 +446,6 @@
       "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 00:04:35 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "6b6c7100781c3e9d",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 16:19:29 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "a4648347bec45e1a",
-      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 13:07:00 GMT",
       "section": "technology"
     },
     {
