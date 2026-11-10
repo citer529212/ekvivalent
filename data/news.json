@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:15:34.075626+00:00",
+  "updated": "2026-11-10T19:42:20.168997+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,43 +9,91 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "4a9293f6fb187443",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 03:58:13 GMT",
-      "section": "world"
-    },
-    {
       "id": "d3212160414aac1d",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+      "published": "Tue, 10 Nov 2026 17:29:36 GMT",
       "section": "world"
     },
     {
-      "id": "2f68b82d21faa9dd",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 05:33:25 GMT",
+      "id": "b812a27808c73cb4",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
       "section": "world"
     },
     {
-      "id": "6ee79d0416da88e1",
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 00:14:03 GMT",
+      "id": "79d2d8b7c1cd87dd",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 17:03:16 GMT",
       "section": "world"
     },
     {
-      "id": "d4036d1f11fee211",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 05:22:39 GMT",
+      "id": "af1eb0f1fbea412d",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:21:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "207a4fa17cf57c07",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:04:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "fb294595803529a7",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:23:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ad975dd0d3cfcff9",
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 16:07:51 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c20c2bdeabaf1213",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 17:59:02 GMT",
+      "section": "world"
+    },
+    {
+      "id": "119606f9f2d23278",
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 16:19:48 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7f52167f7e4be03d",
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:25:46 GMT",
+      "section": "world"
+    },
+    {
+      "id": "27831ce6633310b0",
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 08:39:05 GMT",
       "section": "world"
     },
     {
@@ -57,19 +105,59 @@
       "section": "world"
     },
     {
-      "id": "64de75add4ac8f42",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 01:38:49 GMT",
+      "id": "4a9293f6fb187443",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 08:23:21 GMT",
       "section": "world"
     },
     {
       "id": "afdc6ec15c3be9fd",
-      "title": "France accuses Iran of supermarket fridge hacking",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
       "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "published": "Tue, 10 Nov 2026 13:45:13 GMT",
+      "section": "world"
+    },
+    {
+      "id": "76510ee2fdbd37d1",
+      "title": "California police investigate after 27 fall ill at half-marathon running event",
+      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:22:12 GMT",
+      "section": "world"
+    },
+    {
+      "id": "aa0c24a4bfc70983",
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:23:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "2f68b82d21faa9dd",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:40:31 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0cb678cb8f1012f5",
+      "title": "Oxford museum returns ancestral Naga skulls to India",
+      "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 06:23:42 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d4036d1f11fee211",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 05:22:39 GMT",
       "section": "world"
     },
     {
@@ -78,14 +166,6 @@
       "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
       "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e5d0742cfbaa9454",
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 18:08:07 GMT",
       "section": "world"
     },
     {
@@ -113,100 +193,28 @@
       "section": "world"
     },
     {
-      "id": "4a6aece1109d2634",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:06:18 GMT",
+      "id": "55b4bc03a0eb318e",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:35:35 GMT",
       "section": "world"
     },
     {
-      "id": "563627d5634d0b21",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:47:29 GMT",
+      "id": "3c97a8b7eb06cb25",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:03:52 GMT",
       "section": "world"
     },
     {
-      "id": "e573ed3951e8163c",
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:33:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "33f8c47084864e07",
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 11:56:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "27e55c022079d6ac",
-      "title": "Thirteen migrants die after boat sinks off Crete",
-      "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 13:50:01 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4688c3e49b475ee5",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 02:50:13 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4b857884546f78b6",
-      "title": "Dana White declines Trump’s offer to be White House press secretary",
-      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 22:46:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "024f760437add5ad",
-      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-      "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 19:09:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e116d0b1412517fd",
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "summary": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
-      "url": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:59:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "73882470a9b31a7c",
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 14:50:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7e2c736f396f80e8",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:10:11 GMT",
-      "section": "world"
-    },
-    {
-      "id": "154b6124576d3e4c",
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Nov 2026 22:05:12 GMT",
-      "section": "world"
+      "id": "d1b26a44517374ef",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+      "section": "science"
     },
     {
       "id": "73de7ecb74a921fb",
@@ -305,27 +313,19 @@
       "section": "science"
     },
     {
-      "id": "99ca05fb3e413bbb",
-      "title": "Investigation into 'major fish kill' after pollution incident",
-      "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 14:51:45 GMT",
+      "id": "073d0a938ade852e",
+      "title": "Locals launch campaign to buy ancient wood",
+      "summary": "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 08:13:42 GMT",
       "section": "science"
     },
     {
-      "id": "dac979c190f39db9",
-      "title": "Rising cost of living tests UK's net zero ambitions",
-      "summary": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
-      "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 13:42:03 GMT",
-      "section": "science"
-    },
-    {
-      "id": "53bae0469ea4a94f",
-      "title": "How yesterday's waste is becoming tomorrow's fashion",
-      "summary": "Brands including Dr Martens, Nike and Coach are among those using recycled materials.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 13:18:38 GMT",
+      "id": "123a96f195db4c54",
+      "title": "House martin artificial nests scheme set to expand",
+      "summary": "The artificial nests are more robust than the endangered migratory birds' own mud creations.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 07:27:21 GMT",
       "section": "science"
     },
     {
@@ -361,11 +361,19 @@
       "section": "science"
     },
     {
+      "id": "c67f8109386fc65f",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 17:56:12 GMT",
+      "section": "technology"
+    },
+    {
       "id": "9d5d87a4a4770378",
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
       "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
       "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 06:01:44 GMT",
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
       "section": "technology"
     },
     {
@@ -377,11 +385,27 @@
       "section": "technology"
     },
     {
+      "id": "a4177bf4c6759b03",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 21:52:28 GMT",
+      "section": "technology"
+    },
+    {
       "id": "c4bc507025bdc22c",
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 09 Nov 2026 19:58:01 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "73882470a9b31a7c",
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Nov 2026 14:50:35 GMT",
       "section": "technology"
     },
     {
@@ -422,14 +446,6 @@
       "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
       "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 18:32:16 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "7f806f4d6ebc196f",
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 13:25:50 GMT",
       "section": "technology"
     },
     {
