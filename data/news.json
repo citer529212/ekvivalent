@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:42:20.168997+00:00",
+  "updated": "2026-11-11T06:13:29.480661+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,35 +9,51 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "d3212160414aac1d",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:29:36 GMT",
+      "id": "bf0354919e892807",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 01:01:20 GMT",
       "section": "world"
     },
     {
-      "id": "b812a27808c73cb4",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+      "id": "aebc2df496384854",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:20:04 GMT",
       "section": "world"
     },
     {
-      "id": "79d2d8b7c1cd87dd",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:03:16 GMT",
+      "id": "bb354b722b4500e4",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 03:26:42 GMT",
       "section": "world"
     },
     {
-      "id": "af1eb0f1fbea412d",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 15:21:18 GMT",
+      "id": "d0e1cc1440dbbaef",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 02:41:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "edffa78622022dce",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ddbccf94961adfce",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 02:47:59 GMT",
       "section": "world"
     },
     {
@@ -49,11 +65,91 @@
       "section": "world"
     },
     {
+      "id": "54ac8b1293d2ae57",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 03:44:06 GMT",
+      "section": "world"
+    },
+    {
+      "id": "43b41d6003dac1cb",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 19:26:42 GMT",
+      "section": "world"
+    },
+    {
+      "id": "79d2d8b7c1cd87dd",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 17:03:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "78377496e414ed1c",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:46:40 GMT",
+      "section": "world"
+    },
+    {
+      "id": "b812a27808c73cb4",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+      "section": "world"
+    },
+    {
+      "id": "af1eb0f1fbea412d",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:21:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d3212160414aac1d",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 21:21:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9435eb24521189ad",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 22:52:15 GMT",
+      "section": "world"
+    },
+    {
       "id": "fb294595803529a7",
       "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
       "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
       "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 13:23:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c0413d783d37fb55",
+      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:43:04 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6dd43c8324543e89",
+      "title": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:07:56 GMT",
       "section": "world"
     },
     {
@@ -69,7 +165,7 @@
       "title": "US federal authorities could have prevented Epstein crimes, report finds",
       "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:59:02 GMT",
+      "published": "Tue, 10 Nov 2026 20:36:58 GMT",
       "section": "world"
     },
     {
@@ -113,100 +209,12 @@
       "section": "world"
     },
     {
-      "id": "afdc6ec15c3be9fd",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 13:45:13 GMT",
-      "section": "world"
-    },
-    {
-      "id": "76510ee2fdbd37d1",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 13:22:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "aa0c24a4bfc70983",
-      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 11:23:18 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2f68b82d21faa9dd",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 09:40:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "0cb678cb8f1012f5",
-      "title": "Oxford museum returns ancestral Naga skulls to India",
-      "summary": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 06:23:42 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d4036d1f11fee211",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 05:22:39 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7cac2a0794bc52e6",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dbedcaa7a86dba96",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 20:42:04 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d874e98ba1892e40",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 23:28:53 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e3cf27814ff8f8e6",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 21:48:38 GMT",
-      "section": "world"
-    },
-    {
-      "id": "55b4bc03a0eb318e",
-      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:35:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3c97a8b7eb06cb25",
-      "title": "Why are these purple flowers shutting down streets in Sydney?",
-      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
-      "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:03:52 GMT",
-      "section": "world"
+      "id": "d56631ae3a7b1420",
+      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+      "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:35:14 GMT",
+      "section": "science"
     },
     {
       "id": "d1b26a44517374ef",
@@ -297,19 +305,11 @@
       "section": "science"
     },
     {
-      "id": "6050192b65fb2d16",
-      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 01:22:39 GMT",
-      "section": "science"
-    },
-    {
-      "id": "2a46dc0a00e65778",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:16:53 GMT",
+      "id": "7a8d7bb1a0d48d48",
+      "title": "Artist creates world's biggest soil painting",
+      "summary": "Phil Lambert used four types of soil, including some collected from his mother, to create his work.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 06:06:21 GMT",
       "section": "science"
     },
     {
@@ -361,6 +361,22 @@
       "section": "science"
     },
     {
+      "id": "b2f23fe60f3a3e03",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:19:13 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "e869dd4c2eff5433",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 21:22:36 GMT",
+      "section": "technology"
+    },
+    {
       "id": "c67f8109386fc65f",
       "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
@@ -377,11 +393,11 @@
       "section": "technology"
     },
     {
-      "id": "e869dd4c2eff5433",
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 23:51:22 GMT",
+      "id": "d4036d1f11fee211",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 05:22:39 GMT",
       "section": "technology"
     },
     {
@@ -433,19 +449,11 @@
       "section": "technology"
     },
     {
-      "id": "de0c28c9953fb6e7",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:06:25 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "01856f52ceb43a68",
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 18:32:16 GMT",
+      "id": "9798c5d5f4ba159b",
+      "title": "Tech Life",
+      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:30:00 GMT",
       "section": "technology"
     },
     {
@@ -470,14 +478,6 @@
       "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 19:45:00 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "fef1a2a6f28701b0",
-      "title": "Tech Life",
-      "summary": "The plan for an orbiting data centre involves linking satellites around Earth.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:45:00 GMT",
       "section": "technology"
     },
     {
