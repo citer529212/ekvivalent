@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:11:58.237349+00:00",
+  "updated": "2026-11-12T23:36:55.394110+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -10,18 +10,26 @@
   "articles": [
     {
       "id": "eabeef9e80729989",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:54:47 GMT",
+      "published": "Thu, 12 Nov 2026 21:00:42 GMT",
       "section": "world"
     },
     {
-      "id": "8bb3609cab28554e",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "id": "88784d92e59c8158",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7ec49616553583c5",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 19:23:02 GMT",
       "section": "world"
     },
     {
@@ -33,11 +41,19 @@
       "section": "world"
     },
     {
+      "id": "8b16e71439866d2a",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "section": "world"
+    },
+    {
       "id": "42327152d90ec1f5",
-      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
       "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:24:48 GMT",
+      "published": "Thu, 12 Nov 2026 15:18:20 GMT",
       "section": "world"
     },
     {
@@ -45,7 +61,15 @@
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:27:30 GMT",
+      "published": "Thu, 12 Nov 2026 16:54:12 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c714eb74d985cd30",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 11:07:19 GMT",
       "section": "world"
     },
     {
@@ -57,11 +81,19 @@
       "section": "world"
     },
     {
+      "id": "c853cc05493bba68",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 13:58:49 GMT",
+      "section": "world"
+    },
+    {
       "id": "44a008dceb764579",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
       "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:13:35 GMT",
+      "published": "Thu, 12 Nov 2026 21:27:21 GMT",
       "section": "world"
     },
     {
@@ -145,27 +177,11 @@
       "section": "world"
     },
     {
-      "id": "b583202398514239",
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 20:00:54 GMT",
-      "section": "world"
-    },
-    {
-      "id": "57ea874114065b87",
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 13:25:47 GMT",
-      "section": "world"
-    },
-    {
-      "id": "55a295d1c83dd3c1",
-      "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
-      "summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
-      "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:42:44 GMT",
+      "id": "8bb3609cab28554e",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
       "section": "world"
     },
     {
@@ -185,20 +201,28 @@
       "section": "world"
     },
     {
-      "id": "a603fb20f5ffaf85",
-      "title": "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned?",
-      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:10:32 GMT",
+      "id": "00916c7a76a8c68a",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 17:11:48 GMT",
       "section": "world"
     },
     {
-      "id": "34ad3eed1e3cd182",
-      "title": "Can Nigeria's president regain voters' trust after painful first term?",
-      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 07:30:44 GMT",
-      "section": "world"
+      "id": "74de562f1d36b44f",
+      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 22:49:48 GMT",
+      "section": "science"
+    },
+    {
+      "id": "3532a4e0aa8a23b1",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 22:48:55 GMT",
+      "section": "science"
     },
     {
       "id": "0b26e0c016c7e981",
@@ -281,22 +305,6 @@
       "section": "science"
     },
     {
-      "id": "fc02bbd89b1139cd",
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
-      "summary": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
-      "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:56:43 GMT",
-      "section": "science"
-    },
-    {
-      "id": "8523134642159141",
-      "title": "One of the year's most prolific meteor showers visible in the night sky throughout November",
-      "summary": "The Leonid meteor shower, known for its bright and fast meteors continues through November.",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 02:03:28 GMT",
-      "section": "science"
-    },
-    {
       "id": "939bd1df4d1d1e01",
       "title": "Nurdle impact to be researched for a year",
       "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
@@ -318,14 +326,6 @@
       "summary": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest.",
       "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 06:13:52 GMT",
-      "section": "science"
-    },
-    {
-      "id": "e4f83eb1daa8b8a9",
-      "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
-      "summary": "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 06:37:12 GMT",
       "section": "science"
     },
     {
@@ -361,19 +361,35 @@
       "section": "science"
     },
     {
-      "id": "00916c7a76a8c68a",
-      "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:18:33 GMT",
+      "id": "607d4d7557c40807",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "376d5a6f39d9f86f",
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 16:43:36 GMT",
       "section": "technology"
     },
     {
       "id": "e869dd4c2eff5433",
-      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 04:18:33 GMT",
+      "published": "Thu, 12 Nov 2026 15:26:39 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "a603fb20f5ffaf85",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 15:10:32 GMT",
       "section": "technology"
     },
     {
@@ -438,22 +454,6 @@
       "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
       "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 05:22:39 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "a4177bf4c6759b03",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 21:52:28 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "c4bc507025bdc22c",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 19:58:01 GMT",
       "section": "technology"
     },
     {
