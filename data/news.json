@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:36:55.394110+00:00",
+  "updated": "2026-11-13T06:42:32.651271+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,27 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "eabeef9e80729989",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 21:00:42 GMT",
+      "id": "607d4d7557c40807",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c4e104b78dbe843c",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5ab32b935289d189",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 02:48:29 GMT",
       "section": "world"
     },
     {
@@ -33,11 +49,11 @@
       "section": "world"
     },
     {
-      "id": "6b0875495d9978f4",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
+      "id": "e56c4b761af68d91",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 03:02:54 GMT",
       "section": "world"
     },
     {
@@ -46,6 +62,14 @@
       "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6b0875495d9978f4",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
       "section": "world"
     },
     {
@@ -177,51 +201,27 @@
       "section": "world"
     },
     {
-      "id": "8bb3609cab28554e",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "id": "79397d2c51e92e6b",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 23:42:52 GMT",
       "section": "world"
-    },
-    {
-      "id": "9d9f3ad80701ab8e",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "01e0d15111ea62cf",
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-      "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 09:28:36 GMT",
-      "section": "world"
-    },
-    {
-      "id": "00916c7a76a8c68a",
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 17:11:48 GMT",
-      "section": "world"
-    },
-    {
-      "id": "74de562f1d36b44f",
-      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
-      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 22:49:48 GMT",
-      "section": "science"
     },
     {
       "id": "3532a4e0aa8a23b1",
       "title": "How many sewage spills have happened in your part of Scotland?",
       "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
       "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 22:48:55 GMT",
+      "published": "Fri, 13 Nov 2026 06:31:51 GMT",
+      "section": "science"
+    },
+    {
+      "id": "74de562f1d36b44f",
+      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:05:49 GMT",
       "section": "science"
     },
     {
@@ -305,6 +305,14 @@
       "section": "science"
     },
     {
+      "id": "b61f87d1a031725b",
+      "title": "National Trust takes back land for nature restoration",
+      "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:22:20 GMT",
+      "section": "science"
+    },
+    {
       "id": "939bd1df4d1d1e01",
       "title": "Nurdle impact to be researched for a year",
       "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
@@ -361,11 +369,27 @@
       "section": "science"
     },
     {
-      "id": "607d4d7557c40807",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+      "id": "7d226533f769fbf1",
+      "title": "Global Microsoft outage affecting tens of thousands of users",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 02:38:02 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "e31d579ac0149753",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "00916c7a76a8c68a",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 17:11:48 GMT",
       "section": "technology"
     },
     {
@@ -438,22 +462,6 @@
       "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
       "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 10 Nov 2026 09:23:55 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "4a9293f6fb187443",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 08:23:21 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "d4036d1f11fee211",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 05:22:39 GMT",
       "section": "technology"
     },
     {
