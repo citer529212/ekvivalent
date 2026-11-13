@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:42:32.651271+00:00",
+  "updated": "2026-11-13T19:40:04.425853+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,19 +9,91 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "607d4d7557c40807",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "id": "f83f812563eb29b6",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:36:57 GMT",
       "section": "world"
     },
     {
-      "id": "c4e104b78dbe843c",
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "id": "82c7a02c82378a75",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "section": "world"
+    },
+    {
+      "id": "b13e18c3f67ad0a3",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c195611169542d12",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:40:08 GMT",
+      "section": "world"
+    },
+    {
+      "id": "bbd27f699d942e66",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:42:52 GMT",
+      "section": "world"
+    },
+    {
+      "id": "cc77c38ca8f56d4a",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:34:45 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ab9ad422964dc7e5",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 19:03:10 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1383d3f72891184d",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:11:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "85d70f79665c45ec",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:38:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "2699a76e030ebddc",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 07:01:43 GMT",
+      "section": "world"
+    },
+    {
+      "id": "b5309dad832b6cef",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:37:08 GMT",
       "section": "world"
     },
     {
@@ -33,171 +105,27 @@
       "section": "world"
     },
     {
-      "id": "88784d92e59c8158",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "id": "3bd74a2663b94069",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:16:50 GMT",
       "section": "world"
     },
     {
-      "id": "7ec49616553583c5",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 19:23:02 GMT",
+      "id": "bedeb45b11e16c20",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:09:40 GMT",
       "section": "world"
     },
     {
-      "id": "e56c4b761af68d91",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:02:54 GMT",
-      "section": "world"
-    },
-    {
-      "id": "8b16e71439866d2a",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6b0875495d9978f4",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "42327152d90ec1f5",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:18:20 GMT",
-      "section": "world"
-    },
-    {
-      "id": "7c670ec87508ee71",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 16:54:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c714eb74d985cd30",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:07:19 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b288570e37df8ba3",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 07:45:52 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c853cc05493bba68",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:58:49 GMT",
-      "section": "world"
-    },
-    {
-      "id": "44a008dceb764579",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 21:27:21 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3a0b6122a2ac65d0",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 22:07:37 GMT",
-      "section": "world"
-    },
-    {
-      "id": "831fcebeb3f81a49",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 02:40:18 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e636ac149ba8b884",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:46:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ccc2ffd18d2431da",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 04:03:13 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f6f2c356227b45bc",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 14:56:11 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ac468bbb6b4cc89d",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 18:38:45 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b960a21f90555f50",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 18:10:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e195474e00495d06",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 16:45:11 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2487502ed7655fd1",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 13:24:29 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3116dfbf95ac28d8",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 12:53:11 GMT",
+      "id": "dc0164c6ef7334a1",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 02:24:11 GMT",
       "section": "world"
     },
     {
@@ -209,6 +137,94 @@
       "section": "world"
     },
     {
+      "id": "8bb3609cab28554e",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9d9f3ad80701ab8e",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "01e0d15111ea62cf",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
+      "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 09:28:36 GMT",
+      "section": "world"
+    },
+    {
+      "id": "64838ee6839b9ce3",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+      "section": "world"
+    },
+    {
+      "id": "eb8a1f45cc8d6eeb",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "summary": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 08:20:28 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d36f3c30cd4b44d7",
+      "title": "Why midterm vote-counting is taking so long in America's largest state",
+      "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:35:05 GMT",
+      "section": "world"
+    },
+    {
+      "id": "98747013ce5b4908",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:20:24 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5de73707b7968339",
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5dc963d648581e6f",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 14:12:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "cfd044d2d428a8e9",
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 18:50:15 GMT",
+      "section": "science"
+    },
+    {
+      "id": "93b6db4fd19cfe43",
+      "title": "Summer heatwave put bin crews lives at risk, says council worker",
+      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:03:04 GMT",
+      "section": "science"
+    },
+    {
       "id": "3532a4e0aa8a23b1",
       "title": "How many sewage spills have happened in your part of Scotland?",
       "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
@@ -218,7 +234,7 @@
     },
     {
       "id": "74de562f1d36b44f",
-      "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+      "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
       "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 06:05:49 GMT",
@@ -246,6 +262,14 @@
       "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
       "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 00:12:59 GMT",
+      "section": "science"
+    },
+    {
+      "id": "2487502ed7655fd1",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 13:24:29 GMT",
       "section": "science"
     },
     {
@@ -289,19 +313,11 @@
       "section": "science"
     },
     {
-      "id": "4a797523648a6230",
-      "title": "Birds return to waterfowl park after oil vandalism",
-      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 14:52:07 GMT",
-      "section": "science"
-    },
-    {
-      "id": "44f8ac73737099ec",
-      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:30:12 GMT",
+      "id": "64734981bb1735c0",
+      "title": "Climate action discussed at youth COP meeting",
+      "summary": "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 14:39:06 GMT",
       "section": "science"
     },
     {
@@ -309,7 +325,7 @@
       "title": "National Trust takes back land for nature restoration",
       "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
       "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 06:22:20 GMT",
+      "published": "Fri, 13 Nov 2026 07:04:09 GMT",
       "section": "science"
     },
     {
@@ -326,14 +342,6 @@
       "summary": "After parkland was safeguarded from development, residents want the council to change a housing plan.",
       "url": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 06:24:44 GMT",
-      "section": "science"
-    },
-    {
-      "id": "8fc1d4c49bedf99e",
-      "title": "Art trail celebrates arrival of black bears at zoo",
-      "summary": "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest.",
-      "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 06:13:52 GMT",
       "section": "science"
     },
     {
@@ -369,6 +377,54 @@
       "section": "science"
     },
     {
+      "id": "d3bc368f2c827e78",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 17:38:19 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "829c82d81c0a08b0",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 17:34:58 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "938c3e3c199878a4",
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:41:25 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "691a4e74f9e6dd4e",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:29:25 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "cfd115ed130a52e1",
+      "title": "What happened overnight with the Microsoft global outage?",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "607d4d7557c40807",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "section": "technology"
+    },
+    {
       "id": "7d226533f769fbf1",
       "title": "Global Microsoft outage affecting tens of thousands of users",
       "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
@@ -390,78 +446,6 @@
       "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 12 Nov 2026 17:11:48 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "376d5a6f39d9f86f",
-      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 16:43:36 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "e869dd4c2eff5433",
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:26:39 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "a603fb20f5ffaf85",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:10:32 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "76c32aad363e140c",
-      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-      "summary": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 22:26:18 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "f2638f7d630ee77c",
-      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 11:33:24 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "b2f23fe60f3a3e03",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 00:19:13 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "9435eb24521189ad",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 22:52:15 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "c67f8109386fc65f",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:56:12 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "9d5d87a4a4770378",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
       "section": "technology"
     },
     {
