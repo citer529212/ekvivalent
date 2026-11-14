@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:19:39.913972+00:00",
+  "updated": "2026-11-14T17:59:14.719065+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,67 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "1e4c1fc5abc49ad2",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 17:16:36 GMT",
+      "section": "world"
+    },
+    {
       "id": "530533c1157d7fd4",
-      "title": "What we know about the longest ground stop since 9/11",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+      "published": "Sat, 14 Nov 2026 14:20:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4d3f357daa8cc28f",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 15:15:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d66099d92304cf4e",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 16:29:48 GMT",
+      "section": "world"
+    },
+    {
+      "id": "43f46995ee098a26",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 15:42:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c680cb902e27912f",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 15:53:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8573d9e8e576a4ad",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 14:18:41 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4a394efa21306d32",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 10:42:20 GMT",
       "section": "world"
     },
     {
@@ -25,27 +81,11 @@
       "section": "world"
     },
     {
-      "id": "c680cb902e27912f",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 05:52:31 GMT",
-      "section": "world"
-    },
-    {
       "id": "334ebcca23065263",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 21:14:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "8573d9e8e576a4ad",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+      "published": "Sat, 14 Nov 2026 06:42:27 GMT",
       "section": "world"
     },
     {
@@ -65,6 +105,14 @@
       "section": "world"
     },
     {
+      "id": "2bbb0f47b100bd14",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 17:54:33 GMT",
+      "section": "world"
+    },
+    {
       "id": "cc77c38ca8f56d4a",
       "title": "The Peruvian city that has embraced Pope Leo as one of its own",
       "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
@@ -73,51 +121,11 @@
       "section": "world"
     },
     {
-      "id": "bbd27f699d942e66",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:42:52 GMT",
-      "section": "world"
-    },
-    {
       "id": "ab9ad422964dc7e5",
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
       "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 19:03:10 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1383d3f72891184d",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 13:11:23 GMT",
-      "section": "world"
-    },
-    {
-      "id": "85d70f79665c45ec",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:38:54 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2699a76e030ebddc",
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 07:01:43 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3bd74a2663b94069",
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:16:50 GMT",
       "section": "world"
     },
     {
@@ -130,10 +138,10 @@
     },
     {
       "id": "101d44ffbb4da315",
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 21:15:24 GMT",
+      "published": "Sat, 14 Nov 2026 11:30:10 GMT",
       "section": "world"
     },
     {
@@ -185,14 +193,6 @@
       "section": "world"
     },
     {
-      "id": "59d35bd98e0729bd",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
-      "section": "world"
-    },
-    {
       "id": "27ac71ecb4e41dda",
       "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
       "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
@@ -201,19 +201,27 @@
       "section": "world"
     },
     {
-      "id": "64838ee6839b9ce3",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+      "id": "59d35bd98e0729bd",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
       "section": "world"
+    },
+    {
+      "id": "3ed4e7ff074a5681",
+      "title": "How to spot November's planetary parade in the pre-dawn sky",
+      "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 11:07:51 GMT",
+      "section": "science"
     },
     {
       "id": "7c2571bab7ee80b2",
       "title": "Bluetongue virus confirmed on County Down farm",
       "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
       "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:17:45 GMT",
+      "published": "Sat, 14 Nov 2026 06:56:58 GMT",
       "section": "science"
     },
     {
@@ -297,11 +305,11 @@
       "section": "science"
     },
     {
-      "id": "d1b26a44517374ef",
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+      "id": "174440005ff09bb2",
+      "title": "Extreme weather leaves gardeners hedging their bets",
+      "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 07:12:14 GMT",
       "section": "science"
     },
     {
@@ -318,14 +326,6 @@
       "summary": "The trust hopes to restore the site, create new wildlife habitats and improve access to green space.",
       "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 07:04:09 GMT",
-      "section": "science"
-    },
-    {
-      "id": "939bd1df4d1d1e01",
-      "title": "Nurdle impact to be researched for a year",
-      "summary": "Research will be carried out on sea-birds and marine life following a microplastic spillage in July.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:38:35 GMT",
       "section": "science"
     },
     {
@@ -393,6 +393,14 @@
       "section": "technology"
     },
     {
+      "id": "64838ee6839b9ce3",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+      "section": "technology"
+    },
+    {
       "id": "82c7a02c82378a75",
       "title": "What we know so far about the Microsoft outage",
       "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
@@ -414,14 +422,6 @@
       "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
       "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 07:18:17 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "607d4d7557c40807",
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
       "section": "technology"
     },
     {
