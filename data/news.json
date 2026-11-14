@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:59:14.719065+00:00",
+  "updated": "2026-11-14T22:22:29.377166+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -13,23 +13,15 @@
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 17:16:36 GMT",
-      "section": "world"
-    },
-    {
-      "id": "530533c1157d7fd4",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 14:20:57 GMT",
+      "published": "Sat, 14 Nov 2026 19:12:25 GMT",
       "section": "world"
     },
     {
       "id": "4d3f357daa8cc28f",
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 15:15:57 GMT",
+      "published": "Sat, 14 Nov 2026 20:41:45 GMT",
       "section": "world"
     },
     {
@@ -37,15 +29,31 @@
       "title": "Italy fines Meta €805m over accessing users' photos",
       "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 16:29:48 GMT",
+      "published": "Sat, 14 Nov 2026 18:28:06 GMT",
       "section": "world"
     },
     {
-      "id": "43f46995ee098a26",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 15:42:54 GMT",
+      "id": "22f849a8a9998288",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+      "section": "world"
+    },
+    {
+      "id": "76599d9076d2b2fa",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 18:17:58 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d644feeef9f24e33",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 18:00:10 GMT",
       "section": "world"
     },
     {
@@ -57,11 +65,19 @@
       "section": "world"
     },
     {
-      "id": "8573d9e8e576a4ad",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 14:18:41 GMT",
+      "id": "d3ad8c146b04ab1d",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:03:52 GMT",
+      "section": "world"
+    },
+    {
+      "id": "43f46995ee098a26",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 15:42:54 GMT",
       "section": "world"
     },
     {
@@ -77,7 +93,7 @@
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+      "published": "Sat, 14 Nov 2026 20:23:06 GMT",
       "section": "world"
     },
     {
@@ -86,46 +102,6 @@
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 06:42:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b13e18c3f67ad0a3",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c195611169542d12",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2bbb0f47b100bd14",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:54:33 GMT",
-      "section": "world"
-    },
-    {
-      "id": "cc77c38ca8f56d4a",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:34:45 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ab9ad422964dc7e5",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 19:03:10 GMT",
       "section": "world"
     },
     {
@@ -141,7 +117,7 @@
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 11:30:10 GMT",
+      "published": "Sat, 14 Nov 2026 19:14:33 GMT",
       "section": "world"
     },
     {
@@ -177,19 +153,19 @@
       "section": "world"
     },
     {
+      "id": "530533c1157d7fd4",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 20:03:48 GMT",
+      "section": "world"
+    },
+    {
       "id": "6caf8a684ef5c09a",
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
       "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
       "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 00:03:56 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d3ad8c146b04ab1d",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:03:52 GMT",
       "section": "world"
     },
     {
@@ -207,6 +183,22 @@
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 23:00:31 GMT",
       "section": "world"
+    },
+    {
+      "id": "b13e18c3f67ad0a3",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8573d9e8e576a4ad",
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:15:52 GMT",
+      "section": "science"
     },
     {
       "id": "3ed4e7ff074a5681",
@@ -345,14 +337,6 @@
       "section": "science"
     },
     {
-      "id": "162a0bcb0e81b734",
-      "title": "US rockets firm eyes up mothballed Highland spaceport",
-      "summary": "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:47:23 GMT",
-      "section": "science"
-    },
-    {
       "id": "f42c8666591c38b9",
       "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
       "summary": "The next title in the series is expected to be the biggest video game release ever.",
@@ -366,6 +350,14 @@
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 21:15:41 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "c195611169542d12",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
       "section": "technology"
     },
     {
