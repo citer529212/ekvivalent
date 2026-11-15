@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:22:29.377166+00:00",
+  "updated": "2026-11-15T06:27:33.650791+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,6 +9,14 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "4d3f357daa8cc28f",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+      "section": "world"
+    },
+    {
       "id": "1e4c1fc5abc49ad2",
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
@@ -17,11 +25,19 @@
       "section": "world"
     },
     {
-      "id": "4d3f357daa8cc28f",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 20:41:45 GMT",
+      "id": "c718f0631c936bbe",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 02:49:45 GMT",
+      "section": "world"
+    },
+    {
+      "id": "3ec5f05a65866a7c",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 03:21:04 GMT",
       "section": "world"
     },
     {
@@ -89,22 +105,6 @@
       "section": "world"
     },
     {
-      "id": "2eafa4b1bb39d8eb",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 20:23:06 GMT",
-      "section": "world"
-    },
-    {
-      "id": "334ebcca23065263",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 06:42:27 GMT",
-      "section": "world"
-    },
-    {
       "id": "79f1de58c4924ea5",
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
       "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
@@ -153,11 +153,27 @@
       "section": "world"
     },
     {
+      "id": "9c404fd939f59376",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:06:51 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a62b82539253fb0e",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 00:06:55 GMT",
+      "section": "world"
+    },
+    {
       "id": "530533c1157d7fd4",
       "title": "How telecoms upgrade work sparked US flight chaos",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 20:03:48 GMT",
+      "published": "Sat, 14 Nov 2026 23:11:27 GMT",
       "section": "world"
     },
     {
@@ -177,25 +193,9 @@
       "section": "world"
     },
     {
-      "id": "59d35bd98e0729bd",
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b13e18c3f67ad0a3",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "section": "world"
-    },
-    {
       "id": "8573d9e8e576a4ad",
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 22:15:52 GMT",
       "section": "science"
@@ -321,6 +321,14 @@
       "section": "science"
     },
     {
+      "id": "84fe3a0cfd549c08",
+      "title": "SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 23:15:10 GMT",
+      "section": "science"
+    },
+    {
       "id": "2a551477860af711",
       "title": "Toby Jones stars in film about UK Mars mission",
       "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
@@ -329,12 +337,12 @@
       "section": "science"
     },
     {
-      "id": "c9e8be921c9e89a5",
-      "title": "Print commissioned by Nasa uncovered for exhibition",
-      "summary": "The Pop Art at Cartwright Hall exhibition tells the story of the British International Print Biennale.",
-      "url": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:18:19 GMT",
-      "section": "science"
+      "id": "334ebcca23065263",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 06:42:27 GMT",
+      "section": "technology"
     },
     {
       "id": "f42c8666591c38b9",
@@ -342,6 +350,14 @@
       "summary": "The next title in the series is expected to be the biggest video game release ever.",
       "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 00:37:01 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "59d35bd98e0729bd",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 23:00:31 GMT",
       "section": "technology"
     },
     {
