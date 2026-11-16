@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:25:13.054823+00:00",
+  "updated": "2026-11-16T22:00:19.876610+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,75 +9,115 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "7c7b29f5e4c81914",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+      "id": "1c8dfbcb75eaec87",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 16:27:24 GMT",
       "section": "world"
     },
     {
-      "id": "871c4bfc0c426ed1",
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 03:08:31 GMT",
+      "id": "74dca108d80eb27c",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 21:40:07 GMT",
       "section": "world"
     },
     {
-      "id": "56dedeeec32c3b29",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "id": "4dfe5806c8eee85f",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 19:16:52 GMT",
       "section": "world"
     },
     {
-      "id": "8d84ec1e724b0968",
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 03:09:49 GMT",
+      "id": "fda86912607e0ce5",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 14:58:12 GMT",
       "section": "world"
     },
     {
-      "id": "cdf05ed225a51cbf",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 03:21:56 GMT",
+      "id": "41ea534b8fc963e9",
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 17:18:54 GMT",
       "section": "world"
     },
     {
-      "id": "ff02de9f850c3b8c",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:00:13 GMT",
+      "id": "c919c34fce7334ac",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 20:33:57 GMT",
       "section": "world"
     },
     {
-      "id": "9e2be74d107ef8c1",
-      "title": "Canada bars Russia from Junior World Championships",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:01:16 GMT",
+      "id": "ac6032c48d0b2b08",
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 19:30:30 GMT",
       "section": "world"
     },
     {
-      "id": "3a5f36fa5039fa15",
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 05:06:59 GMT",
+      "id": "ba88cb6852c733d0",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 10:57:48 GMT",
       "section": "world"
     },
     {
-      "id": "9a149bdd0ac60957",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "id": "65bc2c4d08924101",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 13:40:56 GMT",
+      "section": "world"
+    },
+    {
+      "id": "aeeceed8b0e0ed92",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 14:48:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "298e0316627df273",
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
+      "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:42:14 GMT",
+      "section": "world"
+    },
+    {
+      "id": "26c307272e334db9",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 14:22:36 GMT",
+      "section": "world"
+    },
+    {
+      "id": "f29869842febcd35",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 15:08:59 GMT",
+      "section": "world"
+    },
+    {
+      "id": "209090d497c3c1f7",
+      "title": "New York teen reunites with cat missing after building collapse",
+      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 04:36:45 GMT",
       "section": "world"
     },
     {
@@ -89,51 +129,11 @@
       "section": "world"
     },
     {
-      "id": "da8865ca9d259060",
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:57:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d3a2c471fef7377b",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 21:03:40 GMT",
-      "section": "world"
-    },
-    {
-      "id": "209090d497c3c1f7",
-      "title": "Watch: New York teen reunites with cat missing after building collapse",
-      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 04:36:45 GMT",
-      "section": "world"
-    },
-    {
       "id": "22f849a8a9998288",
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 22:09:40 GMT",
-      "section": "world"
-    },
-    {
-      "id": "101d44ffbb4da315",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 19:14:33 GMT",
-      "section": "world"
-    },
-    {
-      "id": "bedeb45b11e16c20",
-      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
-      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 15:09:40 GMT",
       "section": "world"
     },
     {
@@ -145,36 +145,44 @@
       "section": "world"
     },
     {
-      "id": "9c404fd939f59376",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:06:51 GMT",
+      "id": "bcd181111f57da49",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 15:02:41 GMT",
       "section": "world"
     },
     {
-      "id": "a62b82539253fb0e",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 00:06:55 GMT",
+      "id": "d991ae64572f991b",
+      "title": "Is India rethinking its short-term military recruitment scheme?",
+      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:41:42 GMT",
       "section": "world"
     },
     {
-      "id": "530533c1157d7fd4",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 14:57:15 GMT",
+      "id": "50c262f8ea20a387",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 15:40:16 GMT",
       "section": "world"
     },
     {
-      "id": "6caf8a684ef5c09a",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+      "id": "b5f9b9d8dfc20084",
+      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
+      "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:11:12 GMT",
       "section": "world"
+    },
+    {
+      "id": "d384e0fc01a482be",
+      "title": "Yellow weather warnings issued for snow as temperatures plummet",
+      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 10:02:04 GMT",
+      "section": "science"
     },
     {
       "id": "4f34f128a81de74f",
@@ -273,11 +281,11 @@
       "section": "science"
     },
     {
-      "id": "d56631ae3a7b1420",
-      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-      "summary": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 00:35:14 GMT",
+      "id": "0dbfcd6f03a0d2f3",
+      "title": "Experts explore returning beavers to River Waveney",
+      "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 06:27:27 GMT",
       "section": "science"
     },
     {
@@ -286,6 +294,14 @@
       "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
       "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 07:12:14 GMT",
+      "section": "science"
+    },
+    {
+      "id": "6caf8a684ef5c09a",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
       "section": "science"
     },
     {
@@ -321,11 +337,35 @@
       "section": "science"
     },
     {
+      "id": "1edbe06f78cf3cda",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 13:34:22 GMT",
+      "section": "technology"
+    },
+    {
       "id": "529dff662e522801",
-      "title": "Investors sue chip giant Intel after 29% stock plunge",
-      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
       "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 03:04:01 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "56dedeeec32c3b29",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "9a149bdd0ac60957",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 13:37:45 GMT",
       "section": "technology"
     },
     {
@@ -390,22 +430,6 @@
       "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
       "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 17:34:58 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "938c3e3c199878a4",
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 13:41:25 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "64838ee6839b9ce3",
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
       "section": "technology"
     },
     {
