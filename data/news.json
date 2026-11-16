@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T18:50:17.059391+00:00",
+  "updated": "2026-11-16T06:25:13.054823+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -11,25 +11,65 @@
     {
       "id": "7c7b29f5e4c81914",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 18:08:20 GMT",
+      "published": "Sun, 15 Nov 2026 19:32:39 GMT",
       "section": "world"
     },
     {
-      "id": "aa8e6247d001d121",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "id": "871c4bfc0c426ed1",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:08:31 GMT",
       "section": "world"
     },
     {
-      "id": "c397a88bd18fc3c0",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 11:06:32 GMT",
+      "id": "56dedeeec32c3b29",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8d84ec1e724b0968",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:09:49 GMT",
+      "section": "world"
+    },
+    {
+      "id": "cdf05ed225a51cbf",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:21:56 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ff02de9f850c3b8c",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:00:13 GMT",
+      "section": "world"
+    },
+    {
+      "id": "9e2be74d107ef8c1",
+      "title": "Canada bars Russia from Junior World Championships",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:01:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "3a5f36fa5039fa15",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 05:06:59 GMT",
       "section": "world"
     },
     {
@@ -41,19 +81,19 @@
       "section": "world"
     },
     {
-      "id": "56dedeeec32c3b29",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "id": "c27285778da4b00d",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 18:38:11 GMT",
       "section": "world"
     },
     {
-      "id": "6b2e3c144cb16d98",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 08:17:41 GMT",
+      "id": "da8865ca9d259060",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 22:57:27 GMT",
       "section": "world"
     },
     {
@@ -61,95 +101,15 @@
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 17:23:40 GMT",
+      "published": "Sun, 15 Nov 2026 21:03:40 GMT",
       "section": "world"
     },
     {
-      "id": "3ec5f05a65866a7c",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 15:57:03 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c718f0631c936bbe",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 09:57:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "725edb5f53ee4146",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 09:26:37 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2a7d344b49180c07",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 14:33:59 GMT",
-      "section": "world"
-    },
-    {
-      "id": "76599d9076d2b2fa",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 18:17:58 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1e4c1fc5abc49ad2",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 07:10:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d66099d92304cf4e",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 18:28:06 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d644feeef9f24e33",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 18:00:10 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c680cb902e27912f",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 15:53:55 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4a394efa21306d32",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 10:42:20 GMT",
-      "section": "world"
-    },
-    {
-      "id": "43f46995ee098a26",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 15:42:54 GMT",
+      "id": "209090d497c3c1f7",
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 04:36:45 GMT",
       "section": "world"
     },
     {
@@ -174,6 +134,14 @@
       "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
       "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 15:09:40 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7aa175f88067404d",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 00:13:14 GMT",
       "section": "world"
     },
     {
@@ -207,6 +175,14 @@
       "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 00:03:56 GMT",
       "section": "world"
+    },
+    {
+      "id": "4f34f128a81de74f",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 06:24:08 GMT",
+      "section": "science"
     },
     {
       "id": "3ed4e7ff074a5681",
@@ -305,14 +281,6 @@
       "section": "science"
     },
     {
-      "id": "edffa78622022dce",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "section": "science"
-    },
-    {
       "id": "174440005ff09bb2",
       "title": "Extreme weather leaves gardeners hedging their bets",
       "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
@@ -337,6 +305,14 @@
       "section": "science"
     },
     {
+      "id": "4dc5ceb9bbe4f62f",
+      "title": "Pupils fascinated by space get astronomy lesson",
+      "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
+      "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 06:11:42 GMT",
+      "section": "science"
+    },
+    {
       "id": "84fe3a0cfd549c08",
       "title": "SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
@@ -345,12 +321,20 @@
       "section": "science"
     },
     {
-      "id": "2a551477860af711",
-      "title": "Toby Jones stars in film about UK Mars mission",
-      "summary": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 14:10:11 GMT",
-      "section": "science"
+      "id": "529dff662e522801",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 03:04:01 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "d66099d92304cf4e",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 18:28:06 GMT",
+      "section": "technology"
     },
     {
       "id": "334ebcca23065263",
@@ -422,14 +406,6 @@
       "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
       "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 12:22:30 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "82c7a02c82378a75",
-      "title": "What we know so far about the Microsoft outage",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 11:43:27 GMT",
       "section": "technology"
     },
     {
