@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:00:19.876610+00:00",
+  "updated": "2026-11-17T07:52:34.139238+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,43 +9,43 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "1c8dfbcb75eaec87",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 16:27:24 GMT",
+      "id": "09543f7a2b137148",
+      "title": "Ukraine and Russia trade strikes on key bridges",
+      "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 07:30:43 GMT",
       "section": "world"
     },
     {
-      "id": "74dca108d80eb27c",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 21:40:07 GMT",
+      "id": "15833b015bab4adc",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 05:59:01 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5247aaf3360071f2",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 01:26:01 GMT",
       "section": "world"
     },
     {
       "id": "4dfe5806c8eee85f",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 19:16:52 GMT",
+      "published": "Tue, 17 Nov 2026 02:37:53 GMT",
       "section": "world"
     },
     {
-      "id": "fda86912607e0ce5",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 14:58:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "41ea534b8fc963e9",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 17:18:54 GMT",
+      "id": "56c2cb6720edfcee",
+      "title": "OpenAI sued by California over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:12:24 GMT",
       "section": "world"
     },
     {
@@ -62,6 +62,22 @@
       "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
       "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 19:30:30 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1c8dfbcb75eaec87",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:20:45 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ebddad6a14edcf51",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 03:07:23 GMT",
       "section": "world"
     },
     {
@@ -89,22 +105,6 @@
       "section": "world"
     },
     {
-      "id": "298e0316627df273",
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-      "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 12:42:14 GMT",
-      "section": "world"
-    },
-    {
-      "id": "26c307272e334db9",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 14:22:36 GMT",
-      "section": "world"
-    },
-    {
       "id": "f29869842febcd35",
       "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
       "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
@@ -121,11 +121,11 @@
       "section": "world"
     },
     {
-      "id": "c27285778da4b00d",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 18:38:11 GMT",
+      "id": "3bdcb8ebe5f2401d",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 21:12:13 GMT",
       "section": "world"
     },
     {
@@ -137,11 +137,35 @@
       "section": "world"
     },
     {
-      "id": "7aa175f88067404d",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 00:13:14 GMT",
+      "id": "3bd8003e021f3d63",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:07:20 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0ba8bb65194258cc",
+      "title": "Taking Korea's toughest exam from behind bars",
+      "summary": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+      "url": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:09:49 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a81101ec3a477059",
+      "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+      "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 00:08:19 GMT",
+      "section": "world"
+    },
+    {
+      "id": "32ba01daa8e41ea7",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:25:53 GMT",
       "section": "world"
     },
     {
@@ -153,28 +177,12 @@
       "section": "world"
     },
     {
-      "id": "d991ae64572f991b",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 00:41:42 GMT",
-      "section": "world"
-    },
-    {
-      "id": "50c262f8ea20a387",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 15:40:16 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b5f9b9d8dfc20084",
-      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-      "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 00:11:12 GMT",
-      "section": "world"
+      "id": "96bbf92b47efbf62",
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 07:29:44 GMT",
+      "section": "science"
     },
     {
       "id": "d384e0fc01a482be",
@@ -273,14 +281,6 @@
       "section": "science"
     },
     {
-      "id": "2487502ed7655fd1",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 13:24:29 GMT",
-      "section": "science"
-    },
-    {
       "id": "0dbfcd6f03a0d2f3",
       "title": "Experts explore returning beavers to River Waveney",
       "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
@@ -335,6 +335,14 @@
       "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 23:15:10 GMT",
       "section": "science"
+    },
+    {
+      "id": "55ee5feb0ebc0de1",
+      "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 01:04:45 GMT",
+      "section": "technology"
     },
     {
       "id": "1edbe06f78cf3cda",
@@ -406,30 +414,6 @@
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 21:15:41 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "c195611169542d12",
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "f83f812563eb29b6",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:36:57 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "829c82d81c0a08b0",
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 17:34:58 GMT",
       "section": "technology"
     },
     {
