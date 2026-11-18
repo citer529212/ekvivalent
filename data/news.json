@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:53:53.814745+00:00",
+  "updated": "2026-11-18T07:25:15.065314+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -13,7 +13,7 @@
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 16:56:38 GMT",
+      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
       "section": "world"
     },
     {
@@ -25,11 +25,19 @@
       "section": "world"
     },
     {
-      "id": "6e4161a0149e2d4a",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:24:21 GMT",
+      "id": "58ccec08be884d74",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 01:18:18 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e33f226d47912c64",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 22:44:15 GMT",
       "section": "world"
     },
     {
@@ -42,18 +50,10 @@
     },
     {
       "id": "8fefe823db1a58c6",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:25:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "cd623bac54324ccf",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 17:10:03 GMT",
+      "published": "Tue, 17 Nov 2026 21:06:11 GMT",
       "section": "world"
     },
     {
@@ -65,11 +65,19 @@
       "section": "world"
     },
     {
+      "id": "cd623bac54324ccf",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 21:04:00 GMT",
+      "section": "world"
+    },
+    {
       "id": "35ec7fce43bd571d",
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:44:54 GMT",
+      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
       "section": "world"
     },
     {
@@ -185,6 +193,14 @@
       "section": "world"
     },
     {
+      "id": "2d20c91af3ce8bf6",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+      "section": "world"
+    },
+    {
       "id": "6df3cd1195315565",
       "title": "Who to watch in Spain's election race",
       "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
@@ -193,20 +209,44 @@
       "section": "world"
     },
     {
-      "id": "a126a11490f7a77e",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 14:25:45 GMT",
-      "section": "world"
+      "id": "2acbaa557a8c7ead",
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 06:12:44 GMT",
+      "section": "science"
     },
     {
-      "id": "15833b015bab4adc",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 05:59:01 GMT",
-      "section": "world"
+      "id": "b2d5638f441152da",
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:44:48 GMT",
+      "section": "science"
+    },
+    {
+      "id": "0c76433c2bc5ed53",
+      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 23:34:56 GMT",
+      "section": "science"
+    },
+    {
+      "id": "7939e37c21a64040",
+      "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+      "summary": "The incident took place in Llwyneinion in August 1980.",
+      "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 22:39:23 GMT",
+      "section": "science"
+    },
+    {
+      "id": "b68a91fc04cc8f0a",
+      "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+      "summary": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 21:00:51 GMT",
+      "section": "science"
     },
     {
       "id": "b9433f77441f4ba9",
@@ -265,67 +305,11 @@
       "section": "science"
     },
     {
-      "id": "7c2571bab7ee80b2",
-      "title": "Bluetongue virus confirmed on County Down farm",
-      "summary": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 06:56:58 GMT",
-      "section": "science"
-    },
-    {
-      "id": "cfd044d2d428a8e9",
-      "title": "What could El Niño mean for winter weather in the US and Canada?",
-      "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:50:15 GMT",
-      "section": "science"
-    },
-    {
-      "id": "93b6db4fd19cfe43",
-      "title": "Summer heatwave put bin crews lives at risk, says council worker",
-      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 12:03:04 GMT",
-      "section": "science"
-    },
-    {
-      "id": "3532a4e0aa8a23b1",
-      "title": "How many sewage spills have happened in your part of Scotland?",
-      "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
-      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 06:31:51 GMT",
-      "section": "science"
-    },
-    {
-      "id": "74de562f1d36b44f",
-      "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
-      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 06:05:49 GMT",
-      "section": "science"
-    },
-    {
-      "id": "0dbfcd6f03a0d2f3",
-      "title": "Experts explore returning beavers to River Waveney",
-      "summary": "A trust says the river-dwelling mammals could improve the health of the waterway.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 06:27:27 GMT",
-      "section": "science"
-    },
-    {
-      "id": "174440005ff09bb2",
-      "title": "Extreme weather leaves gardeners hedging their bets",
-      "summary": "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 07:12:14 GMT",
-      "section": "science"
-    },
-    {
-      "id": "6caf8a684ef5c09a",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 00:03:56 GMT",
+      "id": "f9a7386c1121bde4",
+      "title": "Conservationists searching for large river eels",
+      "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 06:19:28 GMT",
       "section": "science"
     },
     {
@@ -359,6 +343,54 @@
       "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 22:09:40 GMT",
       "section": "science"
+    },
+    {
+      "id": "9194ddb079718aec",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 06:04:21 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "4122aa6872a27946",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 05:33:13 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "f9f859c42f153f70",
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 05:10:02 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "ccc4389da68ad4d0",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "010b3a1c8069f2a8",
+      "title": "Europe plans to catch the next computer chip wave",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 00:00:24 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "a126a11490f7a77e",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "section": "technology"
     },
     {
       "id": "2b4aebc655461a30",
@@ -401,58 +433,10 @@
       "section": "technology"
     },
     {
-      "id": "56c2cb6720edfcee",
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 23:12:24 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "1edbe06f78cf3cda",
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 13:34:22 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "529dff662e522801",
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 03:04:01 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "56dedeeec32c3b29",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 01:47:57 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "9a149bdd0ac60957",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "d66099d92304cf4e",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 18:28:06 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "a21c293310493f3d",
+      "id": "1b098827987d9fe3",
       "title": "Tech Life",
       "summary": "Video gaming is huge - it's more lucrative than the movies and music combined.",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyw?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 20:30:00 GMT",
       "section": "technology"
     },
