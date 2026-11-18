@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T07:25:15.065314+00:00",
+  "updated": "2026-11-18T20:29:04.560942+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,19 +9,115 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "09543f7a2b137148",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
+      "id": "3899f95c62c8755c",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
       "section": "world"
     },
     {
-      "id": "f1bd0e2fadb1cb2d",
-      "title": "How the attack on Crimean Bridge unfolded",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+      "id": "e8d478620ac5766e",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a38f101401d45588",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4bae7c9dd7b588be",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 20:14:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c9225e5cee2bd860",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 20:07:08 GMT",
+      "section": "world"
+    },
+    {
+      "id": "815730ca205ba108",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 13:04:48 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d8da16886db7756f",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:34:25 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0082b563af8d4e67",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 15:39:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "959581aa59f46cda",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 09:27:51 GMT",
+      "section": "world"
+    },
+    {
+      "id": "29e3d15185749f88",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:34:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0ab5e3b0f03a5bca",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:33:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "c7aba06582cfe1a5",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 10:23:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "17a5c11e242497f3",
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 11:12:46 GMT",
+      "section": "world"
+    },
+    {
+      "id": "64e86fd86d339f38",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 09:28:35 GMT",
       "section": "world"
     },
     {
@@ -33,35 +129,43 @@
       "section": "world"
     },
     {
-      "id": "e33f226d47912c64",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 22:44:15 GMT",
+      "id": "ccc4389da68ad4d0",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
       "section": "world"
     },
     {
-      "id": "4c41059aab1950cd",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 17:19:57 GMT",
+      "id": "e20cf5e31880fcb8",
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 02:29:52 GMT",
       "section": "world"
     },
     {
-      "id": "8fefe823db1a58c6",
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:06:11 GMT",
+      "id": "770394a85193c56f",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 04:57:06 GMT",
       "section": "world"
     },
     {
-      "id": "02f09a3f2c48291e",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:30:20 GMT",
+      "id": "b6eb95c1fd1b9f63",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 02:00:37 GMT",
+      "section": "world"
+    },
+    {
+      "id": "09543f7a2b137148",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
       "section": "world"
     },
     {
@@ -81,6 +185,22 @@
       "section": "world"
     },
     {
+      "id": "4c41059aab1950cd",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 17:19:57 GMT",
+      "section": "world"
+    },
+    {
+      "id": "02f09a3f2c48291e",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 20:30:20 GMT",
+      "section": "world"
+    },
+    {
       "id": "19e6d13053833b33",
       "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
       "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
@@ -89,124 +209,28 @@
       "section": "world"
     },
     {
-      "id": "985d0b433179b9b4",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:25:46 GMT",
-      "section": "world"
+      "id": "4890d4f9638ab71d",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 13:55:14 GMT",
+      "section": "science"
     },
     {
-      "id": "eeaf32979b6e2247",
-      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-      "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 09:27:44 GMT",
-      "section": "world"
+      "id": "3b99d3adae83c4f5",
+      "title": "Stormont department failing to protect wild birds, investigation finds",
+      "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 12:13:32 GMT",
+      "section": "science"
     },
     {
-      "id": "04b96a357bee9524",
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 11:17:32 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e75ac9bc5503120b",
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 17:37:04 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4fa78833e8141a37",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:27:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f5916c6537223e1e",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:58:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "89bda0a6ba949d53",
-      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-      "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 11:58:16 GMT",
-      "section": "world"
-    },
-    {
-      "id": "65c3c2ac3e228291",
-      "title": "BBC reports from Kyiv bridge hit by Russian attack",
-      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 15:54:15 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dfc942616c510d54",
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-      "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 06:23:51 GMT",
-      "section": "world"
-    },
-    {
-      "id": "86a807ade04ed9b0",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f29869842febcd35",
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 15:08:59 GMT",
-      "section": "world"
-    },
-    {
-      "id": "209090d497c3c1f7",
-      "title": "New York teen reunites with cat missing after building collapse",
-      "summary": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 04:36:45 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3bdcb8ebe5f2401d",
-      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-      "summary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
-      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 21:12:13 GMT",
-      "section": "world"
-    },
-    {
-      "id": "2d20c91af3ce8bf6",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6df3cd1195315565",
-      "title": "Who to watch in Spain's election race",
-      "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:13:45 GMT",
-      "section": "world"
+      "id": "e012b7345c873673",
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 10:48:49 GMT",
+      "section": "science"
     },
     {
       "id": "2acbaa557a8c7ead",
@@ -281,27 +305,19 @@
       "section": "science"
     },
     {
-      "id": "4f34f128a81de74f",
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 06:24:08 GMT",
+      "id": "9ca2f67adbe55fbc",
+      "title": "William and Kate honour Earthshot Prize winners in Mumbai",
+      "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+      "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 11:18:04 GMT",
       "section": "science"
     },
     {
-      "id": "3ed4e7ff074a5681",
-      "title": "How to spot November's planetary parade in the pre-dawn sky",
-      "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
-      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 10:49:57 GMT",
-      "section": "science"
-    },
-    {
-      "id": "8573d9e8e576a4ad",
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 22:15:52 GMT",
+      "id": "798f9748a7d91e0a",
+      "title": "People asked for views on blue brook pollution",
+      "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 08:37:02 GMT",
       "section": "science"
     },
     {
@@ -337,12 +353,36 @@
       "section": "science"
     },
     {
+      "id": "8573d9e8e576a4ad",
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:15:52 GMT",
+      "section": "science"
+    },
+    {
       "id": "22f849a8a9998288",
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 22:09:40 GMT",
       "section": "science"
+    },
+    {
+      "id": "08a6226e73776bd3",
+      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 13:16:53 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "4122aa6872a27946",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 08:47:06 GMT",
+      "section": "technology"
     },
     {
       "id": "9194ddb079718aec",
@@ -353,27 +393,11 @@
       "section": "technology"
     },
     {
-      "id": "4122aa6872a27946",
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 05:33:13 GMT",
-      "section": "technology"
-    },
-    {
       "id": "f9f859c42f153f70",
       "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
       "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
       "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 05:10:02 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "ccc4389da68ad4d0",
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
       "section": "technology"
     },
     {
@@ -406,30 +430,6 @@
       "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
       "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 11:49:01 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "37027c5afa2868bf",
-      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-      "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 09:41:07 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "4dfe5806c8eee85f",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 02:37:53 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "32ba01daa8e41ea7",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 23:25:53 GMT",
       "section": "technology"
     },
     {
