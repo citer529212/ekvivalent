@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:22:25.680266+00:00",
+  "updated": "2026-11-19T20:34:05.675359+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,35 +9,43 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "b294a552230e3405",
-      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+      "id": "968ebb26e1aec61e",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 20:07:02 GMT",
       "section": "world"
     },
     {
-      "id": "3899f95c62c8755c",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "id": "eeaf96b77ff1efc7",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 17:38:22 GMT",
       "section": "world"
     },
     {
-      "id": "5a9c64a2d43f289a",
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "summary": "No state has ever been found guilty by an international court of committing genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 23:04:06 GMT",
+      "id": "92ca9ff247094edd",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 19:16:21 GMT",
       "section": "world"
     },
     {
-      "id": "787ec3ea015eb548",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 02:20:15 GMT",
+      "id": "1548d446c7c63613",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 15:52:26 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ecb256426dd1c275",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:07:35 GMT",
       "section": "world"
     },
     {
@@ -49,19 +57,51 @@
       "section": "world"
     },
     {
-      "id": "ecb256426dd1c275",
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 04:37:17 GMT",
+      "id": "0f1dfbdae502ca8b",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:31:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "20aed2f8500b9a48",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 17:23:34 GMT",
+      "section": "world"
+    },
+    {
+      "id": "eb1e212b48f5a233",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 12:56:30 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1003cd7da12c85aa",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 09:21:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "29b28d61ecc7b2f0",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 11:44:57 GMT",
       "section": "world"
     },
     {
       "id": "4bae7c9dd7b588be",
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 22:34:56 GMT",
+      "published": "Thu, 19 Nov 2026 17:03:23 GMT",
       "section": "world"
     },
     {
@@ -70,6 +110,14 @@
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 02:59:06 GMT",
+      "section": "world"
+    },
+    {
+      "id": "3899f95c62c8755c",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
       "section": "world"
     },
     {
@@ -161,52 +209,12 @@
       "section": "world"
     },
     {
-      "id": "ccc4389da68ad4d0",
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e20cf5e31880fcb8",
-      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-      "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 02:29:52 GMT",
-      "section": "world"
-    },
-    {
-      "id": "770394a85193c56f",
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 04:57:06 GMT",
-      "section": "world"
-    },
-    {
-      "id": "b6eb95c1fd1b9f63",
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 02:00:37 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4c8aeede10ce74e4",
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 23:47:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ea8200173a8d1264",
-      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
-      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 22:32:47 GMT",
-      "section": "world"
+      "id": "fa6ad01cfc568813",
+      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 13:35:29 GMT",
+      "section": "science"
     },
     {
       "id": "4890d4f9638ab71d",
@@ -297,19 +305,19 @@
       "section": "science"
     },
     {
-      "id": "d06a93581d98b0eb",
-      "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
-      "summary": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 09:03:08 GMT",
+      "id": "ce78f6fa9ef5a5ec",
+      "title": "Oil firm fined for breaking environmental rules hundreds of times",
+      "summary": "Ten charges involved oil, cyanide and other pollutants entering local waterways.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy5de1177yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 19:58:27 GMT",
       "section": "science"
     },
     {
-      "id": "96bbf92b47efbf62",
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 08:01:38 GMT",
+      "id": "9fcd522ad5b594ce",
+      "title": "Rare rhino's first steps captured on video at zoo",
+      "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 16:28:41 GMT",
       "section": "science"
     },
     {
@@ -326,14 +334,6 @@
       "summary": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
       "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 11:18:04 GMT",
-      "section": "science"
-    },
-    {
-      "id": "798f9748a7d91e0a",
-      "title": "People asked for views on blue brook pollution",
-      "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 08:37:02 GMT",
       "section": "science"
     },
     {
@@ -367,6 +367,38 @@
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 22:15:52 GMT",
       "section": "science"
+    },
+    {
+      "id": "eb2f6d1f6a76ebef",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 16:33:17 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "787ec3ea015eb548",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 15:58:58 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "db5722a0b368ed2e",
+      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 12:26:39 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "1c9f1ec88723e6c1",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+      "section": "technology"
     },
     {
       "id": "d8da16886db7756f",
@@ -409,19 +441,11 @@
       "section": "technology"
     },
     {
-      "id": "010b3a1c8069f2a8",
-      "title": "Europe plans to catch the next computer chip wave",
-      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 00:00:24 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "a126a11490f7a77e",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 14:25:45 GMT",
+      "id": "ccc4389da68ad4d0",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
       "section": "technology"
     },
     {
