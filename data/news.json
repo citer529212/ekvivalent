@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:29:04.560942+00:00",
+  "updated": "2026-11-19T07:22:25.680266+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,6 +9,14 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "b294a552230e3405",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+      "section": "world"
+    },
+    {
       "id": "3899f95c62c8755c",
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
@@ -17,19 +25,35 @@
       "section": "world"
     },
     {
-      "id": "e8d478620ac5766e",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+      "id": "5a9c64a2d43f289a",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:04:06 GMT",
       "section": "world"
     },
     {
-      "id": "a38f101401d45588",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "id": "787ec3ea015eb548",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:20:15 GMT",
+      "section": "world"
+    },
+    {
+      "id": "877afe82f192b0c8",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 00:49:19 GMT",
+      "section": "world"
+    },
+    {
+      "id": "ecb256426dd1c275",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 04:37:17 GMT",
       "section": "world"
     },
     {
@@ -37,7 +61,31 @@
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 20:14:57 GMT",
+      "published": "Wed, 18 Nov 2026 22:34:56 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5b76b8d80d91a943",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 02:59:06 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a841d7eae2401c93",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:28:03 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0082b563af8d4e67",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 15:39:57 GMT",
       "section": "world"
     },
     {
@@ -57,22 +105,6 @@
       "section": "world"
     },
     {
-      "id": "d8da16886db7756f",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:34:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "0082b563af8d4e67",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 15:39:57 GMT",
-      "section": "world"
-    },
-    {
       "id": "959581aa59f46cda",
       "title": "Ghana's new $60m presidential jet sparks public outrage",
       "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
@@ -85,7 +117,7 @@
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 17:34:23 GMT",
+      "published": "Wed, 18 Nov 2026 21:13:06 GMT",
       "section": "world"
     },
     {
@@ -161,51 +193,19 @@
       "section": "world"
     },
     {
-      "id": "09543f7a2b137148",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:24:35 GMT",
+      "id": "4c8aeede10ce74e4",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 23:47:46 GMT",
       "section": "world"
     },
     {
-      "id": "cd623bac54324ccf",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:04:00 GMT",
-      "section": "world"
-    },
-    {
-      "id": "35ec7fce43bd571d",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4c41059aab1950cd",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 17:19:57 GMT",
-      "section": "world"
-    },
-    {
-      "id": "02f09a3f2c48291e",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:30:20 GMT",
-      "section": "world"
-    },
-    {
-      "id": "19e6d13053833b33",
-      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:20:36 GMT",
+      "id": "ea8200173a8d1264",
+      "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+      "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
+      "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 22:32:47 GMT",
       "section": "world"
     },
     {
@@ -213,7 +213,15 @@
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:55:14 GMT",
+      "published": "Wed, 18 Nov 2026 23:42:07 GMT",
+      "section": "science"
+    },
+    {
+      "id": "c3b22e300a070dce",
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 20:29:18 GMT",
       "section": "science"
     },
     {
@@ -273,6 +281,14 @@
       "section": "science"
     },
     {
+      "id": "19e6d13053833b33",
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 18:20:36 GMT",
+      "section": "science"
+    },
+    {
       "id": "b9433f77441f4ba9",
       "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
       "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
@@ -297,11 +313,11 @@
       "section": "science"
     },
     {
-      "id": "d384e0fc01a482be",
-      "title": "Yellow weather warnings issued for snow as temperatures plummet",
-      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 10:02:04 GMT",
+      "id": "af1600252bab7bcd",
+      "title": "Developer accused of 'environmental vandalism'",
+      "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 06:09:25 GMT",
       "section": "science"
     },
     {
@@ -318,14 +334,6 @@
       "summary": "The Environment Agency wants to know how the incident affected visitors, residents and businesses.",
       "url": "https://www.bbc.co.uk/news/articles/cqpv9mjm78m3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 08:37:02 GMT",
-      "section": "science"
-    },
-    {
-      "id": "f9a7386c1121bde4",
-      "title": "Conservationists searching for large river eels",
-      "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 06:19:28 GMT",
       "section": "science"
     },
     {
@@ -361,12 +369,12 @@
       "section": "science"
     },
     {
-      "id": "22f849a8a9998288",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 22:09:40 GMT",
-      "section": "science"
+      "id": "d8da16886db7756f",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:34:25 GMT",
+      "section": "technology"
     },
     {
       "id": "08a6226e73776bd3",
@@ -414,22 +422,6 @@
       "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
       "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 14:25:45 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "2b4aebc655461a30",
-      "title": "NHS data contract to stay with Palantir until 2029",
-      "summary": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 12:00:12 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "55ee5feb0ebc0de1",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 11:49:01 GMT",
       "section": "technology"
     },
     {
