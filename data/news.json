@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:36:42.070545+00:00",
+  "updated": "2026-11-23T07:34:34.529353+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -10,34 +10,42 @@
   "articles": [
     {
       "id": "e4dc3fa8f4ea0ce6",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+      "published": "Mon, 23 Nov 2026 05:15:06 GMT",
       "section": "world"
     },
     {
       "id": "4d2dfd34c10fd72a",
       "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+      "published": "Mon, 23 Nov 2026 05:34:39 GMT",
       "section": "world"
     },
     {
-      "id": "cb29a20e38ef835b",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 19:26:54 GMT",
+      "id": "88ba4b4797cf6601",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 05:33:17 GMT",
       "section": "world"
     },
     {
-      "id": "3a79b8d5c4b42531",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 17:57:43 GMT",
+      "id": "6352bd0d59b48f2b",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:08:00 GMT",
+      "section": "world"
+    },
+    {
+      "id": "76dc4ef358138785",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 07:01:31 GMT",
       "section": "world"
     },
     {
@@ -49,6 +57,22 @@
       "section": "world"
     },
     {
+      "id": "737a9facdd26faa1",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 14:05:20 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a107945cc9c74b63",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 21:22:40 GMT",
+      "section": "world"
+    },
+    {
       "id": "1702b449ef0b09d7",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
@@ -57,11 +81,19 @@
       "section": "world"
     },
     {
-      "id": "737a9facdd26faa1",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 14:05:20 GMT",
+      "id": "cb29a20e38ef835b",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 02:59:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "7e5383763bcf3b01",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 01:23:43 GMT",
       "section": "world"
     },
     {
@@ -73,19 +105,11 @@
       "section": "world"
     },
     {
-      "id": "a107945cc9c74b63",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 08:46:28 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f52c822b3d4b2383",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "id": "3a79b8d5c4b42531",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 22:37:43 GMT",
       "section": "world"
     },
     {
@@ -94,6 +118,14 @@
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 22 Nov 2026 01:25:03 GMT",
+      "section": "world"
+    },
+    {
+      "id": "f52c822b3d4b2383",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:33:36 GMT",
       "section": "world"
     },
     {
@@ -177,28 +209,12 @@
       "section": "world"
     },
     {
-      "id": "c04736f66c046ddc",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 08:10:03 GMT",
-      "section": "world"
-    },
-    {
-      "id": "9bc8a6e38b5a853e",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 08:10:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d020b8aa67dc2154",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 20:54:12 GMT",
-      "section": "world"
+      "id": "4279a33688d6c96d",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 06:33:50 GMT",
+      "section": "science"
     },
     {
       "id": "0773d3d170944a83",
@@ -289,14 +305,6 @@
       "section": "science"
     },
     {
-      "id": "c3b22e300a070dce",
-      "title": "Torrential rain causes widespread flooding in South Florida",
-      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
-      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 20:29:18 GMT",
-      "section": "science"
-    },
-    {
       "id": "9681545d43c7a6e0",
       "title": "Record-breaking sightings of rare moth in Essex",
       "summary": "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says.",
@@ -374,6 +382,14 @@
       "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 22:53:24 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "d020b8aa67dc2154",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 20:54:12 GMT",
       "section": "technology"
     },
     {
