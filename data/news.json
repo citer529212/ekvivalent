@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:52:29.824639+00:00",
+  "updated": "2026-11-24T22:24:08.268388+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,11 +9,67 @@
   "unavailable": [],
   "articles": [
     {
-      "id": "25d043b118adad46",
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 09:42:54 GMT",
+      "id": "2a1422ea57bb08bb",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 21:19:42 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a77a44f3631df568",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+      "section": "world"
+    },
+    {
+      "id": "4acc4486706bb165",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 18:07:46 GMT",
+      "section": "world"
+    },
+    {
+      "id": "762ce6d7fedd6d19",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 22:12:44 GMT",
+      "section": "world"
+    },
+    {
+      "id": "318e9d12844de6ba",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 15:17:28 GMT",
+      "section": "world"
+    },
+    {
+      "id": "03d1b8471517e466",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 19:10:31 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e8a823548b9b67b0",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 15:35:53 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8a11be66dc0b8ac7",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 10:58:51 GMT",
       "section": "world"
     },
     {
@@ -25,27 +81,11 @@
       "section": "world"
     },
     {
-      "id": "8a11be66dc0b8ac7",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 02:15:59 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4acc4486706bb165",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 05:33:07 GMT",
-      "section": "world"
-    },
-    {
-      "id": "8b0993be5d17e9fa",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 20:48:35 GMT",
+      "id": "1d0e3400ffceba62",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:10:57 GMT",
       "section": "world"
     },
     {
@@ -57,19 +97,35 @@
       "section": "world"
     },
     {
-      "id": "81800622d8bc9a04",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 17:07:25 GMT",
+      "id": "1bacfc6abde8051b",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 17:04:00 GMT",
+      "section": "world"
+    },
+    {
+      "id": "95409503e917c1fb",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:45:52 GMT",
       "section": "world"
     },
     {
       "id": "ff6c6aedbd710a87",
-      "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
       "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 08:35:41 GMT",
+      "published": "Tue, 24 Nov 2026 19:27:23 GMT",
+      "section": "world"
+    },
+    {
+      "id": "04d463bcde637a48",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 12:45:43 GMT",
       "section": "world"
     },
     {
@@ -102,14 +158,6 @@
       "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
       "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 00:23:25 GMT",
-      "section": "world"
-    },
-    {
-      "id": "ad724bcf8f7740f0",
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 21:03:34 GMT",
       "section": "world"
     },
     {
@@ -161,44 +209,28 @@
       "section": "world"
     },
     {
-      "id": "c63e4cf44e0ffbe2",
-      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 00:02:15 GMT",
-      "section": "world"
+      "id": "04ae87c4a928cd9f",
+      "title": "Badger cull ruled out by Welsh government after speculation",
+      "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+      "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:47:05 GMT",
+      "section": "science"
     },
     {
-      "id": "8006ba0f9c438f1c",
-      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 13:09:52 GMT",
-      "section": "world"
+      "id": "3be605308d4dde41",
+      "title": "Record 5,200 heat-linked deaths estimated in England this year",
+      "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:22:16 GMT",
+      "section": "science"
     },
     {
-      "id": "00916c7a76a8c68a",
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 15:49:52 GMT",
-      "section": "world"
-    },
-    {
-      "id": "4279a33688d6c96d",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 06:33:50 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6352bd0d59b48f2b",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 00:08:00 GMT",
-      "section": "world"
+      "id": "6ed2bd9b6de2c6f9",
+      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+      "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
+      "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:40:46 GMT",
+      "section": "science"
     },
     {
       "id": "df8cf82ed3b7a0b0",
@@ -206,6 +238,14 @@
       "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
       "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 17:24:25 GMT",
+      "section": "science"
+    },
+    {
+      "id": "4279a33688d6c96d",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 06:33:50 GMT",
       "section": "science"
     },
     {
@@ -273,27 +313,11 @@
       "section": "science"
     },
     {
-      "id": "07fa03897d2f5c4b",
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 05:03:43 GMT",
-      "section": "science"
-    },
-    {
-      "id": "fa6ad01cfc568813",
-      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-      "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 13:35:29 GMT",
-      "section": "science"
-    },
-    {
-      "id": "1003cd7da12c85aa",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 09:21:54 GMT",
+      "id": "ee210614424def02",
+      "title": "Delia Smith joins opponents of £1.2bn data centre",
+      "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
+      "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:04:36 GMT",
       "section": "science"
     },
     {
@@ -305,19 +329,19 @@
       "section": "science"
     },
     {
-      "id": "ee210614424def02",
-      "title": "Delia Smith joins opponents of £1.2bn data centre",
-      "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
-      "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 06:36:26 GMT",
-      "section": "science"
-    },
-    {
       "id": "f4bbebaa85cca0b8",
       "title": "Goats drafted in to tame Greenwich Park slope",
       "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 06:16:51 GMT",
+      "section": "science"
+    },
+    {
+      "id": "81800622d8bc9a04",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 17:07:25 GMT",
       "section": "science"
     },
     {
@@ -353,6 +377,14 @@
       "section": "science"
     },
     {
+      "id": "a4e986911abd23a3",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 18:21:43 GMT",
+      "section": "technology"
+    },
+    {
       "id": "217d643100a86d27",
       "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
       "summary": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
@@ -385,11 +417,27 @@
       "section": "technology"
     },
     {
+      "id": "00916c7a76a8c68a",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 15:49:52 GMT",
+      "section": "technology"
+    },
+    {
       "id": "c2c96bd84b3ba5df",
       "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
       "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
       "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:08:50 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "6352bd0d59b48f2b",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 00:08:00 GMT",
       "section": "technology"
     },
     {
@@ -417,27 +465,11 @@
       "section": "technology"
     },
     {
-      "id": "53ba164e0140f69f",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "d020b8aa67dc2154",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 20:54:12 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "8543ddf4a5288125",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 19:03:56 GMT",
+      "id": "3d8f05f75b9061b9",
+      "title": "Tech Life",
+      "summary": "Experts from around the world plot the progress of AI development every five years.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 21:00:00 GMT",
       "section": "technology"
     },
     {
@@ -462,14 +494,6 @@
       "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 20:30:00 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "8346efbd8e2d19c7",
-      "title": "Tech Life",
-      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 20:30:00 GMT",
       "section": "technology"
     },
     {
