@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:24:08.268388+00:00",
+  "updated": "2026-11-25T08:29:32.295982+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -9,19 +9,91 @@
   "unavailable": [],
   "articles": [
     {
+      "id": "4980e212d8f2fd41",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 00:56:51 GMT",
+      "section": "world"
+    },
+    {
       "id": "2a1422ea57bb08bb",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 21:19:42 GMT",
+      "published": "Wed, 25 Nov 2026 03:44:07 GMT",
       "section": "world"
     },
     {
-      "id": "a77a44f3631df568",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+      "id": "762ce6d7fedd6d19",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 02:59:27 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6cd45e2d2b78eb32",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 06:00:36 GMT",
+      "section": "world"
+    },
+    {
+      "id": "04d7a75d17591af0",
+      "title": "The rising cost of putting food on the table in India",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "section": "world"
+    },
+    {
+      "id": "931118a83c11690e",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 01:40:42 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d28edd583d67403a",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 06:36:00 GMT",
+      "section": "world"
+    },
+    {
+      "id": "728942263f493f65",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 23:03:59 GMT",
+      "section": "world"
+    },
+    {
+      "id": "2d4be277456770f9",
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 07:26:54 GMT",
+      "section": "world"
+    },
+    {
+      "id": "803932ad076bb2b6",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 23:05:11 GMT",
+      "section": "world"
+    },
+    {
+      "id": "e8a823548b9b67b0",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 15:35:53 GMT",
       "section": "world"
     },
     {
@@ -30,14 +102,6 @@
       "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 18:07:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "762ce6d7fedd6d19",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 22:12:44 GMT",
       "section": "world"
     },
     {
@@ -57,11 +121,11 @@
       "section": "world"
     },
     {
-      "id": "e8a823548b9b67b0",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 15:35:53 GMT",
+      "id": "a77a44f3631df568",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:49:07 GMT",
       "section": "world"
     },
     {
@@ -97,22 +161,6 @@
       "section": "world"
     },
     {
-      "id": "1bacfc6abde8051b",
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 17:04:00 GMT",
-      "section": "world"
-    },
-    {
-      "id": "95409503e917c1fb",
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 11:45:52 GMT",
-      "section": "world"
-    },
-    {
       "id": "ff6c6aedbd710a87",
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
@@ -145,68 +193,36 @@
       "section": "world"
     },
     {
-      "id": "f6d36288d7834960",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 17:14:50 GMT",
+      "id": "291d938a9bf3eed5",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 03:28:37 GMT",
       "section": "world"
     },
     {
-      "id": "e000e454f6b288cb",
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 00:23:25 GMT",
+      "id": "e7995c112ae8e4c6",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 22:07:30 GMT",
       "section": "world"
     },
     {
-      "id": "e3786350c1a3934d",
-      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-      "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-      "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 09:09:41 GMT",
-      "section": "world"
+      "id": "af29473d6bca7877",
+      "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 04:46:23 GMT",
+      "section": "science"
     },
     {
-      "id": "e0495d6a5040b0f6",
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 01:21:41 GMT",
-      "section": "world"
-    },
-    {
-      "id": "eb3ae9634767b876",
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
-      "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 22:59:07 GMT",
-      "section": "world"
-    },
-    {
-      "id": "de264d24b1a82fc1",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 18:49:19 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3b152dca00dd577e",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 11:34:10 GMT",
-      "section": "world"
-    },
-    {
-      "id": "3a79b8d5c4b42531",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Nov 2026 22:37:43 GMT",
-      "section": "world"
+      "id": "6791e8a4e26fa519",
+      "title": "Will there be a White Christmas this year?",
+      "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 01:03:24 GMT",
+      "section": "science"
     },
     {
       "id": "04ae87c4a928cd9f",
@@ -281,35 +297,11 @@
       "section": "science"
     },
     {
-      "id": "d93ccccea3aec46b",
-      "title": "Will COP31 end with a new global climate deal?",
-      "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
-      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 22:44:52 GMT",
-      "section": "science"
-    },
-    {
-      "id": "e54ec07f73645f1c",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 22:19:43 GMT",
-      "section": "science"
-    },
-    {
-      "id": "4168e50cd31cd6e8",
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-      "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:57:26 GMT",
-      "section": "science"
-    },
-    {
-      "id": "a6322da124324731",
-      "title": "What are heat pumps and how much do they cost?",
-      "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:24:52 GMT",
+      "id": "d9147fc308b7648c",
+      "title": "Huge fly-tip grew undetected over several months",
+      "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 06:14:26 GMT",
       "section": "science"
     },
     {
@@ -337,14 +329,6 @@
       "section": "science"
     },
     {
-      "id": "81800622d8bc9a04",
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 17:07:25 GMT",
-      "section": "science"
-    },
-    {
       "id": "5b76b8d80d91a943",
       "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
@@ -361,20 +345,12 @@
       "section": "science"
     },
     {
-      "id": "4dc5ceb9bbe4f62f",
-      "title": "Pupils fascinated by space get astronomy lesson",
-      "summary": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
-      "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 06:11:42 GMT",
-      "section": "science"
-    },
-    {
-      "id": "84fe3a0cfd549c08",
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 23:15:10 GMT",
-      "section": "science"
+      "id": "3267b6051ed13edd",
+      "title": "Why tiny cars are taking off across Europe",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 00:34:05 GMT",
+      "section": "technology"
     },
     {
       "id": "a4e986911abd23a3",
@@ -454,14 +430,6 @@
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 23:08:57 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "5ef06037f3faa4d5",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:53:24 GMT",
       "section": "technology"
     },
     {
