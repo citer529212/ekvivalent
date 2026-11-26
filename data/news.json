@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T21:39:43.204710+00:00",
+  "updated": "2026-11-26T08:14:15.891814+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -13,7 +13,7 @@
       "title": "US announces new tariffs on host of countries including China",
       "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+      "published": "Thu, 26 Nov 2026 04:10:58 GMT",
       "section": "world"
     },
     {
@@ -26,10 +26,18 @@
     },
     {
       "id": "1c6024d18fe8d709",
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
       "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 21:25:14 GMT",
+      "published": "Wed, 25 Nov 2026 22:18:06 GMT",
+      "section": "world"
+    },
+    {
+      "id": "791ea9aca8c2feb9",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
       "section": "world"
     },
     {
@@ -45,7 +53,7 @@
       "title": "US stocks fall further as fears over AI intensify",
       "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
       "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:48:09 GMT",
+      "published": "Wed, 25 Nov 2026 21:43:18 GMT",
       "section": "world"
     },
     {
@@ -53,7 +61,47 @@
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
       "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 19:54:52 GMT",
+      "published": "Thu, 26 Nov 2026 00:23:05 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a9c62cdd7213c889",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 01:22:55 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a067c0da2f1d9669",
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "summary": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 07:34:47 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1948fca9bbe107ce",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
+      "section": "world"
+    },
+    {
+      "id": "fee99f7092cda568",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 04:04:14 GMT",
+      "section": "world"
+    },
+    {
+      "id": "8842d637b0f0fbcc",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 23:18:27 GMT",
       "section": "world"
     },
     {
@@ -61,7 +109,7 @@
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
       "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 19:19:06 GMT",
+      "published": "Wed, 25 Nov 2026 21:51:17 GMT",
       "section": "world"
     },
     {
@@ -113,51 +161,27 @@
       "section": "world"
     },
     {
-      "id": "762ce6d7fedd6d19",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 10:52:09 GMT",
+      "id": "bc108d345915abe2",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 19:38:05 GMT",
       "section": "world"
     },
     {
-      "id": "3e500e04dfa2ba49",
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 15:41:39 GMT",
+      "id": "a60791c866814e25",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 20:11:46 GMT",
       "section": "world"
     },
     {
-      "id": "931118a83c11690e",
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 01:40:42 GMT",
-      "section": "world"
-    },
-    {
-      "id": "6728eb208267b68f",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 19:26:44 GMT",
-      "section": "world"
-    },
-    {
-      "id": "8338ba89e76768bf",
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 12:24:12 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f6d101d9cd8d13b7",
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 15:42:50 GMT",
+      "id": "c107a504b0055776",
+      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 16:23:03 GMT",
       "section": "world"
     },
     {
@@ -185,28 +209,36 @@
       "section": "world"
     },
     {
-      "id": "e0495d6a5040b0f6",
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 01:21:41 GMT",
-      "section": "world"
+      "id": "a0326822fe154098",
+      "title": "What UK season changes mean for you",
+      "summary": "Frosts will become less common and hot summer days more frequent in the UK, the Met Office says.",
+      "url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:14:16 GMT",
+      "section": "science"
     },
     {
-      "id": "de264d24b1a82fc1",
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 18:49:19 GMT",
-      "section": "world"
+      "id": "cd522dfcea3ba21b",
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:08:07 GMT",
+      "section": "science"
     },
     {
-      "id": "3b152dca00dd577e",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 11:34:10 GMT",
-      "section": "world"
+      "id": "29f2b2d83a49bfb7",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+      "section": "science"
+    },
+    {
+      "id": "3e500e04dfa2ba49",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 15:41:39 GMT",
+      "section": "science"
     },
     {
       "id": "f173384f0c16026e",
@@ -257,35 +289,11 @@
       "section": "science"
     },
     {
-      "id": "3be605308d4dde41",
-      "title": "Record 5,200 heat-linked deaths estimated in England this year",
-      "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 16:22:16 GMT",
-      "section": "science"
-    },
-    {
-      "id": "6ed2bd9b6de2c6f9",
-      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-      "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-      "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 11:40:46 GMT",
-      "section": "science"
-    },
-    {
-      "id": "df8cf82ed3b7a0b0",
-      "title": "What failure of COP31 reveals about a divided world",
-      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 17:24:25 GMT",
-      "section": "science"
-    },
-    {
-      "id": "4279a33688d6c96d",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 06:33:50 GMT",
+      "id": "333ff4c26d495828",
+      "title": "Whitehouse calls on PM to help save lake fish",
+      "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 06:05:36 GMT",
       "section": "science"
     },
     {
@@ -313,28 +321,28 @@
       "section": "science"
     },
     {
-      "id": "f4bbebaa85cca0b8",
-      "title": "Goats drafted in to tame Greenwich Park slope",
-      "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 06:16:51 GMT",
-      "section": "science"
-    },
-    {
-      "id": "a60791c866814e25",
-      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "id": "1b5c200d0220b002",
+      "title": "Images from Earth's asteroid defence test reveal new crater",
       "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
-      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 20:11:46 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 23:20:43 GMT",
       "section": "science"
     },
     {
-      "id": "6cc399b5dad5d127",
-      "title": "Why China has sent Pakistan's first astronaut into space",
-      "summary": "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission.",
-      "url": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 09:37:29 GMT",
+      "id": "df8cf82ed3b7a0b0",
+      "title": "What failure of COP31 reveals about a divided world",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 17:24:25 GMT",
       "section": "science"
+    },
+    {
+      "id": "762ce6d7fedd6d19",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 10:52:09 GMT",
+      "section": "technology"
     },
     {
       "id": "b50e46d04304c434",
