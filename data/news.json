@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:14:37.998828+00:00",
+  "updated": "2026-11-28T07:44:56.189551+00:00",
   "source": "BBC News RSS",
   "feeds": {
     "world": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -13,7 +13,31 @@
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 20:57:04 GMT",
+      "published": "Fri, 27 Nov 2026 21:55:53 GMT",
+      "section": "world"
+    },
+    {
+      "id": "58b7ceb1a51005c1",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 04:13:45 GMT",
+      "section": "world"
+    },
+    {
+      "id": "0b2a52c951b978bc",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 04:19:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "6ccc7c31dee7390a",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 00:56:55 GMT",
       "section": "world"
     },
     {
@@ -25,83 +49,11 @@
       "section": "world"
     },
     {
-      "id": "1eab93bf7e54c93e",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 18:42:50 GMT",
-      "section": "world"
-    },
-    {
       "id": "5813550398040e4f",
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
       "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 20:06:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "f53be474bc7fc47c",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 15:54:15 GMT",
-      "section": "world"
-    },
-    {
-      "id": "1bc3f2e2255b4e74",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 20:34:45 GMT",
-      "section": "world"
-    },
-    {
-      "id": "60bd6b1a9655a231",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 17:19:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "5ef4be14e1a178df",
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 16:53:46 GMT",
-      "section": "world"
-    },
-    {
-      "id": "88cd0cc8f59ee648",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 11:44:40 GMT",
-      "section": "world"
-    },
-    {
-      "id": "340af565625916d0",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 10:24:24 GMT",
-      "section": "world"
-    },
-    {
-      "id": "e056cc8e97bf4372",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 13:38:07 GMT",
-      "section": "world"
-    },
-    {
-      "id": "c8eeaea13d408f69",
-      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 07:28:10 GMT",
       "section": "world"
     },
     {
@@ -113,75 +65,43 @@
       "section": "world"
     },
     {
-      "id": "1e82c20bfd294eeb",
-      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-      "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 11:22:02 GMT",
+      "id": "5ef4be14e1a178df",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 16:53:46 GMT",
       "section": "world"
     },
     {
-      "id": "18a24f1cbbb1e738",
-      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-      "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 05:54:38 GMT",
+      "id": "c8eeaea13d408f69",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 07:28:10 GMT",
       "section": "world"
     },
     {
-      "id": "b4ba312f7ecbbceb",
-      "title": "Venezuela to scrap law that bars opposition from public office",
-      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 05:35:10 GMT",
+      "id": "60bd6b1a9655a231",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 17:19:31 GMT",
       "section": "world"
     },
     {
-      "id": "f3136c437b79c2be",
-      "title": "EU leaders fail to bridge budget splits as talks stall",
-      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 06:11:55 GMT",
+      "id": "e056cc8e97bf4372",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 13:38:07 GMT",
       "section": "world"
     },
     {
-      "id": "1b2d9a072f32db2f",
-      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-      "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 10:39:31 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d8b939cea51e00e0",
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 08:58:08 GMT",
-      "section": "world"
-    },
-    {
-      "id": "79a17237bc68ab6e",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 12:33:23 GMT",
-      "section": "world"
-    },
-    {
-      "id": "d47facffc6b66e7d",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 16:21:19 GMT",
-      "section": "world"
-    },
-    {
-      "id": "dffc17fc9dc8761b",
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 09:49:42 GMT",
+      "id": "517112579bf8b7c1",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 16:46:47 GMT",
       "section": "world"
     },
     {
@@ -209,27 +129,75 @@
       "section": "world"
     },
     {
+      "id": "531caf503c7fef54",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 19:26:16 GMT",
+      "section": "world"
+    },
+    {
+      "id": "1eab93bf7e54c93e",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 18:42:50 GMT",
+      "section": "world"
+    },
+    {
+      "id": "dd6d2bba2a651706",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 23:02:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "776f6dea0328e2d7",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 00:05:17 GMT",
+      "section": "world"
+    },
+    {
+      "id": "d78f8d306811d4ce",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 00:50:11 GMT",
+      "section": "world"
+    },
+    {
+      "id": "5ebdf7f6465550fb",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 01:20:35 GMT",
+      "section": "world"
+    },
+    {
+      "id": "a38c1440c2b10cd0",
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 01:55:33 GMT",
+      "section": "science"
+    },
+    {
+      "id": "1bc3f2e2255b4e74",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 20:34:45 GMT",
+      "section": "science"
+    },
+    {
       "id": "a84f71235d1a87c8",
       "title": "New satellite data shows how fast some African cities are sinking",
       "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
       "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 19:03:18 GMT",
-      "section": "science"
-    },
-    {
-      "id": "a38c1440c2b10cd0",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 18:45:05 GMT",
-      "section": "science"
-    },
-    {
-      "id": "517112579bf8b7c1",
-      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
-      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
-      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 16:46:47 GMT",
       "section": "science"
     },
     {
@@ -281,19 +249,19 @@
       "section": "science"
     },
     {
-      "id": "531caf503c7fef54",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 19:26:16 GMT",
-      "section": "science"
-    },
-    {
       "id": "a61b694cddafa7ab",
       "title": "Second court defeat for Trump's deep-sea mining ambitions",
       "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
       "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 18:22:28 GMT",
+      "section": "science"
+    },
+    {
+      "id": "b2c071411e11c996",
+      "title": "Viaduct gardens vision on show as group gets access",
+      "summary": "Plans to create five community garden spaces on a disused viaduct in Leamington have been published.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnd2gkmzko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 07:22:22 GMT",
       "section": "science"
     },
     {
@@ -351,6 +319,22 @@
       "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 01:02:13 GMT",
       "section": "science"
+    },
+    {
+      "id": "6811ba22810e73a4",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 07:36:33 GMT",
+      "section": "technology"
+    },
+    {
+      "id": "bb0be17c4eefba01",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 01:30:50 GMT",
+      "section": "technology"
     },
     {
       "id": "3c01055c44d74eef",
@@ -433,22 +417,6 @@
       "section": "technology"
     },
     {
-      "id": "90dea8d2d19230c9",
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 21:23:42 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "9194ddb079718aec",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 16:12:35 GMT",
-      "section": "technology"
-    },
-    {
       "id": "3d8f05f75b9061b9",
       "title": "Tech Life",
       "summary": "Experts from around the world plot the progress of AI development every five years.",
@@ -481,6 +449,14 @@
       "section": "technology"
     },
     {
+      "id": "7e6740d947b0596d",
+      "title": "Tech Now",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 01:00:00 GMT",
+      "section": "technology"
+    },
+    {
       "id": "eee4866095576938",
       "title": "Tech Now",
       "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
@@ -502,14 +478,6 @@
       "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
       "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 01:00:00 GMT",
-      "section": "technology"
-    },
-    {
-      "id": "2d0c1972c36b2f83",
-      "title": "Tech Now",
-      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
       "section": "technology"
     }
   ]
